@@ -1,10 +1,12 @@
-# projectdocumentation
+# Project Documentation
 
 # 1. How To Install React.js On Windows?
 
 ### Step 1: Install Node.js And npm
-Start by installing the Node.js installer for windows. Visit the official Node.js website and download the LTS version. Once the Installer is downloaded, run it, and follow the prompts, ensuring you don’t change any default settings. Click “Next” until the installation is complete.
-![Aspose Words f200e12c-2073-48ff-9c41-ed99252eaf2c 001](https://github.com/user-attachments/assets/2d13e3f2-b0c9-4310-8f4e-986682d89794)
+### Step 1: Install Node.js And npm
+
+Start by installing the Node.js installer for Windows. Visit the [Node.js official website](https://nodejs.org/) and download the LTS version. Once the installer is downloaded, run it, and follow the prompts, ensuring you don’t change any default settings. Click “Next” until the installation is complete.
+![Npm](https://github.com/user-attachments/assets/8fdafbc8-4499-4ebc-bd4d-17189d8803d1)
 
 
 ### Step 2: Verify that Node.js npm are installed.
@@ -17,7 +19,7 @@ If the installation is successful, the terminal will display the installed versi
 ```bash
 npm --version
 ```
-![Aspose Words f200e12c-2073-48ff-9c41-ed99252eaf2c 002](https://github.com/user-attachments/assets/fbdc5d1b-7559-42ab-b46d-5ec89b8697f8)
+![Version](https://github.com/user-attachments/assets/01ce4967-1297-463c-8d23-ef489ffba116)
 
 If the installation is successful, the terminal will display the installed version of npm.
 These commands should display the version numbers for Node.js and npm, respectively.
@@ -25,14 +27,14 @@ These commands should display the version numbers for Node.js and npm, respectiv
 # 2. How To Run Project?
 ### Step 1: Open Your Project in an IDE
 Open your preferred IDE (e.g., Visual Studio Code) and navigate to the folder where your React app was installed.
-![Aspose Words 0004257e-e00a-4b98-b7bb-bfbae20e7c51 003](https://github.com/user-attachments/assets/ff61d9a2-f072-4fc7-848a-900977978364)
+![IDE](https://github.com/user-attachments/assets/01d2c8dc-5cd2-419f-b9c1-dc4856cad775)
 
 ### Step 2: Create a New React Project
 Now that you have Create React App installed, you can use it to create a new React project. To do this, open a command prompt, go to the directory where you want the project to live, and run the following command:
 ```bash
 npm create vite@latest atsfrontend
 ```
-![Aspose Words 0004257e-e00a-4b98-b7bb-bfbae20e7c51 004](https://github.com/user-attachments/assets/4d24d614-73c7-4a62-8a84-713c9ae6db8f)
+![Npm command](https://github.com/user-attachments/assets/6c035137-3e0b-4ba4-a01c-0262f702b654)
 
 Replace “atsfrontend” with the desired name for your project. Create React App will create a new directory with the specified name and generate a new React project with a recommended project structure and configuration.
 ### Step 3: Start The Development Server
@@ -44,14 +46,14 @@ Replace “atsfrontend” with the name of your project directory. Now, start th
 ```bash
 npm install
 ```
-![Aspose Words 0004257e-e00a-4b98-b7bb-bfbae20e7c51 005](https://github.com/user-attachments/assets/1fad0f4e-94ec-4267-86d5-272ab5a66657)
+![Start server](https://github.com/user-attachments/assets/da0327d2-85df-4724-ad0d-e0d32ea2a71c)
 
 ```bash
 npm run dev
 ```
 This command launches the development server, which watches for changes to your project files and automatically reloads the browser when changes are detected.
 <br/>
-![Aspose Words 0004257e-e00a-4b98-b7bb-bfbae20e7c51 006](https://github.com/user-attachments/assets/e92854c1-a422-44ed-a2cf-4ead47334f9d)
+![Page](https://github.com/user-attachments/assets/a3b4ebd5-0952-48a8-afd2-278e10c3934a)
 
 # 3. Port Number
 
@@ -61,7 +63,7 @@ The frontend of this project is built using React. By default, React runs on por
 ## 2. Project Port Requirements
 This project is designed to run only on port 3000 during development. React's development server will be configured to always use port 3000, and developers should ensure no other services are using this port. If the port is already occupied, React will throw an error, and you will need to free up the port.
 
-[http://localhost:3000](http://localhost:3000)
+`http://localhost:3000`
 
 ## 3. Troubleshooting
 - **Port Conflict:** If port 3000 is already in use by another application, you will need to free up the port or modify the configuration to use a different one.
@@ -127,7 +129,7 @@ In React apps created with Create React App, `App.jsx` is automatically included
 # CSS
 
 ## 6.1 Tailwind CSS
-Tailwind CSS offers a utility-first approach to styling, which can greatly speed up the development process. It allows you to apply styles directly in your JSX, reducing the need to switch between CSS and JavaScript files.
+<a href="https://tailwindcss.com/" target="_blank" >Tailwind</a> CSS offers a utility-first approach to styling, which can greatly speed up the development process. It allows you to apply styles directly in your JSX, reducing the need to switch between CSS and JavaScript files.
 
 ### The Tailwind CSS configuration file (`tailwind.config.js`)
 ```js
@@ -172,7 +174,7 @@ export default Button;
 - `rounded-lg` applies rounded corners.
 - `hover:bg-blue-700` changes the background color on hover.
 ## 6.2 Bootstrap
-Bootstrap is a popular open-source front-end framework that provides a collection of CSS and JavaScript tools for building responsive, mobile-first websites. It was originally developed by Twitter and is now one of the most widely used frameworks in web development.
+[Bootstrap](https://getbootstrap.com/) is a popular open-source front-end framework that provides a collection of CSS and JavaScript tools for building responsive, mobile-first websites. It was originally developed by Twitter and is now one of the most widely used frameworks in web development.
 
 The following two lines of code are used to import Bootstrap styles and JavaScript functionality into a React project:
 ```js
@@ -241,162 +243,17 @@ try {
           },
         }
 
-      const responseBody = await response.json();
-      console.log("Response Body:", responseBody);
-      let newId = responseBody.id;
-
-      if (response.ok) {
-        console.log(loginEmployeeName);
-
-        const emitData = {
-          employeeId: newId,
-          userType: "Recruiters",
-          employeeName: formData.employeeName,
-          dateOfJoining: getFormattedDateTime(),
-          userName: formData.userName,
-          designation: "",
-          department: "",
-          officialMail: "",
-          employeeEmail: "",
-          employeeNumber: "",
-          officialContactNumber: "",
-          alternateContactNo: "",
-          dateOfBirth: "",
-          gender: "",
-          companyMobileNumber: "",
-          whatsAppNumber: "",
-          emergencyContactPerson: "",
-          emergencyContactNumber: "",
-          emergencyPersonRelation: "",
-          employeePresentAddress: "",
-          employeeExperience: "",
-          perks: "",
-          maritalStatus: "",
-          anniversaryDate: "",
-          tshirtSize: "",
-          lastCompany: "",
-          workLocation: "",
-          entrySource: "",
-          employeeStatus: "",
-          lastWorkingDate: "",
-          reasonForLeaving: "",
-          inductionYesOrNo: "",
-          inductionComment: "",
-          trainingSource: "",
-          trainingCompletedYesOrNo: "",
-          trainingTakenCount: "",
-          roundsOfInterview: "",
-          interviewTakenPerson: "",
-          warningComments: "",
-          performanceIndicator: "",
-          teamLeaderMsg: loginEmployeeName,
-          editDeleteAuthority: "",
-          linkedInURl: "",
-          faceBookURL: "",
-          twitterURl: "",
-          employeeAddress: "",
-          bloodGroup: "",
-          aadhaarNo: "",
-          panNo: "",
-          educationalQualification: "",
-          offeredSalary: "",
-          jobRole: formData.jobRole,
-          professionalPtNo: "",
-          esIcNo: "",
-          pfNo: "",
-          employeePassword: "",
-          confirmPassword: "",
-          profileImage: null,
-          document: null,
-          resumeFile: null,
-          insuranceNumber: "",
-          reportingMangerName: "",
-          reportingMangerDesignation: "",
-        };
-        console.log(emitData);
-
-        toast.success("Employee Data Added Successfully.");
-        socket.emit("add_recruiter_event", emitData);
-        setFormData({
-          employeeId: "0",
-          employeeName: "",
-          dateOfJoining: "",
-          userName: "",
-          designation: "",
-          department: "",
-          officialMail: "",
-          employeeEmail: "",
-          employeeNumber: "",
-          officialContactNumber: "",
-          alternateContactNo: "",
-          dateOfBirth: "",
-          gender: "",
-          companyMobileNumber: "",
-          whatsAppNumber: "",
-          emergencyContactPerson: "",
-          emergencyContactNumber: "",
-          emergencyPersonRelation: "",
-          employeePresentAddress: "",
-          employeeExperience: "",
-          perks: "",
-          maritalStatus: "",
-          anniversaryDate: "",
-          tshirtSize: "",
-          lastCompany: "",
-          workLocation: "",
-          entrySource: "",
-          employeeStatus: "",
-          lastWorkingDate: "",
-          reasonForLeaving: "",
-          inductionYesOrNo: "",
-          inductionComment: "",
-          trainingSource: "",
-          trainingCompletedYesOrNo: "",
-          trainingTakenCount: "",
-          roundsOfInterview: "",
-          interviewTakenPerson: "",
-          warningComments: "",
-          performanceIndicator: "",
-          teamLeaderMsg: "",
-          editDeleteAuthority: "",
-          linkedInURl: "",
-          faceBookURL: "",
-          twitterURl: "",
-          employeeAddress: "",
-          bloodGroup: "",
-          aadhaarNo: "",
-          panNo: "",
-          educationalQualification: "",
-          offeredSalary: "",
-          jobRole: "",
-          professionalPtNo: "",
-          esIcNo: "",
-          pfNo: "",
-          employeePassword: "",
-          confirmPassword: "",
-          profileImage: null,
-          document: null,
-          resumeFile: null,
-          insuranceNumber: "",
-          reportingMangerName: "",
-          reportingMangerDesignation: "",
-        });
-      } else {
-        toast.error("Please Fill All Inputs.");
-      }
-    } catch (error) {
-      console.error("Error:", error);
-      toast.error("Error occurred while adding employee data.");
-    }
-
-
 ```
-![Aspose Words 3f0dfcdd-72f5-4fdf-b605-5f61214113ac 008](https://github.com/user-attachments/assets/efffedfe-fd60-40eb-b249-0609be1e5433)
+<img src="https://github.com/user-attachments/assets/17b629ae-9bfe-43f4-a034-79875c882f4a" width="900">
 
-## Component:
-1. axios: A popular promise-based HTTP client for the browser and Node.js.
-2. toast: Likely a library for displaying notifications to the user, possibly a toast message.
-3. socket.io: A library for real-time web communication.
+## Dependencies:
+1. <a href="https://www.npmjs.com/package/axios" target="_blank">Axios</a>: A popular promise-based HTTP client for the browser and Node.js.
+
+## Request Body:
+2. **dataToUpdate** (Object): This object contains the data to be sent in the request body. The data is typically in JSON format and can include various fields related to the calling tracker (e.g., call count, duration, etc.).
+
+
+
 
 
 # API Fetching in React
@@ -421,159 +278,12 @@ const response = await fetch(
 if (!response.ok) {
   throw new Error(`HTTP error! Status: ${response.status}`);
 }
-const data = await response.json();
-setCallingList(data.content);
-
-try {
-  // lines updated by sahil karnekar
-  let dataToUpdate = {
-    callingTracker: {
-      ...callingTracker,
-      candidateName: callingTracker.candidateName.trim(), // Trim candidateName here
-    },
-    performanceIndicator: {
-      employeeId: employeeId,
-      employeeName: loginEmployeeName,
-      jobRole: userType,
-      candidateName: callingTracker.candidateName.trim(),
-      jobId: callingTracker.requirementId,
-      salary: convertedCurrentCTC,
-      experience: `${lineUpData.experienceYear} years ${lineUpData.experienceMonth} months`,
-      companyName: callingTracker.requirementCompany,
-      designation: callingTracker.jobDesignation,
-      candidateFormFillingDuration: formFillingTime,
-      callingTacker: new Date(),
-      lineup: new Date(),
-      mailToClient: null,
-      mailResponse: null,
-      sendingDocument: null,
-      issueOfferLetter: null,
-      letterResponse: null,
-      joiningProcess: null,
-      joinDate: null,
-      interviewRoundList: [],
-    },
-  };
-
-  dataToUpdate.lineUp = {
-    ...lineUpData,
-    resume: lineUpData.resume,
-  };
-
-  if (userType === "Recruiters") {
-    dataToUpdate.callingTracker.employee = { employeeId: employeeId };
-  } else if (userType === "TeamLeader") {
-    dataToUpdate.callingTracker.teamLeader = { teamLeaderId: employeeId };
-  }
-  console.log(dataToUpdate);
-
-  const response = await axios.post(
-    `${API_BASE_URL}/calling-tracker/${employeeId}/${userType}`,
-    dataToUpdate,
-    {
-      headers: {
-        "Content-Type": "application/json",
-      },
-    }
-  );
-
-  // This code is implemented just for testing of socket transmission
-  const getFormattedDateTime = () => {
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = now.getMonth() + 1; // Months are 0-based in JavaScript
-    const day = now.getDate();
-
-    const hours = now.getHours();
-    const minutes = now.getMinutes();
-    const period = hours >= 12 ? 'PM' : 'AM';
-    const formattedHours = hours > 12 ? hours - 12 : hours === 0 ? 12 : hours;
-    const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
-
-    const formattedDate = `${year}-${month}-${day}`;
-    return `Date: ${formattedDate}, Time: ${formattedHours}:${formattedMinutes} ${period}`;
-  };
-
-  const updatedCallingTracker = {
-    ...dataToUpdate.callingTracker,
-    candidateAddedTime: getFormattedDateTime(),
-  };
-
-  if (callingTracker.selectYesOrNo === "Interested") {
-    socket.emit("add_candidate", updatedCallingTracker);
-  }
-
-  if (response.status === 200 || response.status === 201) {
-    // Arshad Attar Added this function to add data from excel and Resume data base and
-    // after added in data based delete from excel & resume data base
-    // added On Date : 22-11-2024
-    if (initialData && initialData.candidateId) {
-      if (initialData.sourceComponent === "ResumeList") {
-        await deleteResumeDataById(initialData.candidateId);
-      } else if (initialData.sourceComponent === "CallingExcelList") {
-        await deleteExcelDataById(initialData.candidateId);
-      }
-    }
-
-    if (callingTracker.selectYesOrNo === "Interested") {
-      onsuccessfulDataAdditions(true);
-    } else {
-      onsuccessfulDataAdditions(false);
-    }
-    setSubmited(false);
-    setLoading(true);
-    setShowConfetti(true);
-    setResumeSelected(false);
-    setTimeout(() => setShowConfetti(false), 4000);
-    toast.success("Candidate Added Successfully..");
-    setCallingTracker(initialCallingTrackerState);
-    setLineUpData(initialLineUpState);
-  }
-} catch (error) {
-  setSubmited(false);
-  setLoading(false);
-  if (error.response) {
-    console.log("Error Response:", error.response);
-    toast.error(
-      "Error: " + error.response.data.message || "An error occurred"
-    );
-  } else if (error.request) {
-    console.log("Error Request 09 --- :", error.request);
-    toast.error("No response received from the server");
-  } else {
-    console.log("Error Message 09 --- :", error.message);
-    toast.error("An error occurred: " + error.message);
-  }
-} finally {
-  setLoading(false);
-}
-
 ```
-![Aspose Words d945a0ba-dd9c-48d5-bad3-b8d911a6f3f6 007](https://github.com/user-attachments/assets/4ede8b61-48c5-4cda-a4c6-d2f030151ea7)
+![Api](https://github.com/user-attachments/assets/3113931a-1d56-4148-a084-57b9ed51466b)
 
-# Functions
+## Dependencies
+- **fetch**: A native JavaScript function to make HTTP requests. It returns a `Promise` that resolves to the response of the request.
 
-**Fetch API**:fetch(url): 
-1. Sends a GET request to the API.
-
-**Response Handling**:
-1. response.ok: Checks if the response status is in the range 200–299.
-
-2. If the response is not OK, an error is thrown with the HTTP status code.
-
-3. response.json(): Converts the response to a JSON object.
-
-**Set State**: 
-1. setCallingList(data.content): Updates the state with the fetched data.
-
-**Axios POST Request**: 
-1. axios.post(url, data, config): Sends a POST request to the specified URL.
-
-2. dataToUpdate: The data being sent to the API.
-
-3. headers: Additional HTTP headers (e.g., Content-Type).
-
-**Response Handling**:
-1. response.ok: Checks if the response status is in the range 200–299.
-2. If the response is not OK, an error is thrown with the HTTP status code.
-3. response.json(): Converts the response to a JSON object.
+## Request Format
+- The request is made to the calling lineup API endpoint with dynamic segments (`employeeId` and `userType`) as part of the URL.
+- Query parameters (`searchTerm`, `page`, `size`) are appended to the URL to provide filtering and pagination capabilities.
