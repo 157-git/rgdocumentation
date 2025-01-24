@@ -1,4 +1,4 @@
-# documention
+# Project_Documentation
 
 # Node.js and React with Vite: Overview and Setup
 
@@ -167,116 +167,125 @@ A `package.json` file is a fundamental component in Node.js projects. It serves 
   <tbody>
    <tr>
      <tr id="ant-designicons">
-      <td>@ant-design/icons</td>
-      <td>^5.5.2</td>
+      <td><a href="https://www.npmjs.com/package/@ant-design/icons" target="_blank">@ant-design/icons</a></td>
+      <td>^5.5.2</td> 
     </tr>
    <tr id="emotionreact">
-      <td>@emotion/react</td>
+     <td><a href="https://www.npmjs.com/package/@emotion/react" target="_blank">@emotion/react</a></td>
       <td>^11.13.3</td>
     </tr>
     <tr id="emotionstyled">
-      <td>@emotion/styled</td>
+       <td><a href="https://www.npmjs.com/package/@emotion/styled" target="_blank">@emotion/styled</a></td>
       <td>^11.13.3</td>
     </tr>
      <tr id="fortawesome">
-      <td>@fortawesome/fontawesome-svg-core</td>
-      <td>^11.13.0</td>
+       <td><a href="https://www.npmjs.com/package/@fortawesome/fontawesome-svg-core" target="_blank">@fortawesome/fontawesome-svg-core</a></td>
+      <td>^11.13.0</td>   
     </tr>
-    <tr><td>@fortawesome/free-regular-svg-icons</td><td>^6.5.2</td></tr>
-    <tr><td>@fortawesome/free-solid-svg-icons</td><td>^6.5.2</td></tr>
-    <tr><td>@fortawesome/react-fontawesome</td><td>^0.2.2</td></tr>
+    <tr><td><a href="https://www.npmjs.com/package/@fortawesome/free-regular-svg-icons" target="_blank">@fortawesome/free-regular-svg-icons</a></td><td>^6.5.2</td>
+   </tr>
+    <tr></tr><td><a href="https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons" target="_blank">@fortawesome/free-solid-svg-icons</a></td>><td>^6.5.2</td>
+     </tr>
+    <tr><td><a href="https://www.npmjs.com/package/@fortawesome/react-fontawesome" target="_blank">@fortawesome/react-fontawesome</a></td><td>^0.2.2</td>
+    </tr>
    <tr id="muimaterial">
-      <td>@mui/material</td>
-      <td>^6.1.5</td>
+     <td><a href="https://www.npmjs.com/package/@mui/material" target="_blank">@mui/material</a></td>
+      <td>^6.1.5</td>  
     </tr>
-    <tr><td>@mui/x-date-pickers</td><td>^7.21.0</td></tr>
-    <tr><td>@popperjs/core</td><td>^2.11.8</td></tr>
+    <tr><td><a href="https://www.npmjs.com/package/@mui/x-date-pickers" target="_blank">@mui/x-date-pickers</a></td><td>^7.21.0</td>  
+    </tr>
+    <tr><td><a href="https://www.npmjs.com/package/@popperjs/core" target="_blank">@popperjs/core</a></td><td>^2.11.8</td>
+    </tr>
     <tr id="reactpdfviewer">
-      <td>@react-pdf-viewer/core</td>
-      <td>^3.12.0</td>
+      <td><a href="https://www.npmjs.com/package/@popperjs/core" target="_blank">@react-pdf-viewer/core</a></td>
+      <td>^3.12.0</td>   
     </tr>
     <tr id="reactpdfviewerdefaultlayout">
-      <td>@react-pdf-viewer/default-layout</td>
-      <td>^3.12.0</td>
+      <td><a href="https://www.npmjs.com/package/@react-pdf-viewer/default-layout" target="_blank">@react-pdf-viewer/default-layout</a></td>
+      <td>^3.12.0</td> 
     </tr>
-    <tr><td>@react-pdf/renderer</td><td>^3.4.5</td></tr>
+    <tr>  <td><a href="https://www.npmjs.com/package/@react-pdf/renderer" target="_blank">@react-pdf/renderer</a></td><td>^3.4.5</td>
+    </tr>
     <tr id="reduxjstoolkit">
-      <td>@reduxjs/toolkit</td>
-      <td>^2.5.0</td>
+      <td><a href="https://www.npmjs.com/package/@reduxjs/toolkit" target="_blank">@reduxjs/toolkit</a></td>
+      <td>^2.5.0</td>  
     </tr>
-    <tr><td>@stomp/stompjs</td><td>^7.0.0</td></tr>
-    <tr><td>Antd</td><td>^5.21.5</td></tr>
-    <tr><td>Aos</td><td>^2.3.4</td></tr>
+    <tr><td><a href="https://www.npmjs.com/package/@stomp/stompjs" target="_blank">@stomp/stompjs</a></td><td>^7.0.0</td>
+      </tr>
+    <tr><td><a href="https://www.npmjs.com/package/antd" target="_blank">Antd</a></td><td>^5.21.5</td>
+    </tr>
+    <tr><td><a href="https://www.npmjs.com/package/aos" target="_blank">Aos</a></td><td>^2.3.4</td>
+    </tr>
     <tr id="axios">
-      <td>Axios</td>
-      <td>^1.6.8</td>
+      <td><a href="https://www.npmjs.com/package/axios" target="_blank">Axios</a></td>
+      <td>^1.6.8</td> 
     </tr>
-    <tr><td>Bootstrap</td><td>^5.3.3</td></tr>
-    <tr><td>canvas-confetti</td><td>^1.9.3</td></tr>
-    <tr><td>chart.js</td><td>^4.4.7</td></tr>
-    <tr><td>chroma-js</td><td>^3.1.1</td></tr>
-    <tr><td>Colormap</td><td>^2.3.2</td></tr>
-    <tr><td>crypto-js</td><td>^4.2.0</td></tr>
-    <tr><td>date-fns</td><td>^2.30.0</td></tr>
-    <tr><td>Dayjs</td><td>^1.11.13</td></tr>
-    <tr><td>Formic</td><td>^2.4.6</td></tr>
-    <tr><td>Fortawesome</td><td>^0.0.1-security</td></tr>
-    <tr><td>html2canvas</td><td>^1.4.1</td></tr>
-    <tr><td>html2pdf.js</td><td>^0.10.2</td></tr>
-    <tr><td>Io</td><td>1.5.0</td></tr>
-    <tr><td>Jspdf</td><td>^2.5.1</td></tr>
-    <tr><td>jspdf-autotable</td><td>^3.8.2</td></tr>
-    <tr><td>pdf-lib</td><td>^1.17.1</td></tr>
-    <tr><td>Pdfmake</td><td>^0.2.10</td></tr>
+    <tr><td><a href="https://getbootstrap.com/" target="_blank">Bootstrap Documentation</a></td><td>^5.3.3</td></tr>
+    <tr><td><a href="https://github.com/catdad/canvas-confetti" target="_blank">canvas-confetti on GitHub</a></td><td>^1.9.3</td></tr>
+    <tr><td><a href="https://www.chartjs.org/" target="_blank">Chart.js Documentation</a></td><td>^4.4.7</td></tr>
+    <tr><td><a href="https://gka.github.io/chroma.js/" target="_blank">Chroma.js Documentation</a></td><td>^3.1.1</td></tr>
+    <tr><td><a href="https://github.com/indigojs/colormap" target="_blank">Colormap on GitHub</a></td><td>^2.3.2</td></tr>
+    <tr><td><a href="https://cryptojs.googlecode.com/svn/tags/crypto-js-3.1.9-1/build/crypto-js.js" target="_blank">crypto-js Documentation</a></td><td>^4.2.0</td></tr>
+    <tr><td><a href="https://date-fns.org/" target="_blank">date-fns Documentation</a></td><td>^2.30.0</td></tr>
+    <tr><td><a href="https://day.js.org/" target="_blank">Day.js Documentation</a></td><td>^1.11.13</td></tr>
+    <tr><td><a href="https://formik.org/" target="_blank">Formik Documentation</a> </td><td>^2.4.6</td></tr>
+    <tr><td><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">Fortawesome on GitHub</a></td><td>^0.0.1-security</td></tr>
+    <tr><td><a href="https://html2canvas.hertzen.com/" target="_blank">html2canvas Documentation</a></td><td>^1.4.1</td></tr>
+    <tr><td><a href="https://github.com/eKoopmans/html2pdf" target="_blank">html2pdf.js on GitHub</a></td><td>^0.10.2</td></tr>
+    <tr><td><a href="https://github.com/ianstormtaylor/io" target="_blank">Io on GitHub</a></td><td>1.5.0</td></tr>
+    <tr><td><a href="https://github.com/parallax/jsPDF" target="_blank">jsPDF Documentation</a></td><td>^2.5.1</td></tr>
+    <tr><td><a href="https://github.com/eKoopmans/html2pdf" target="_blank">jspdf-autotable on GitHub</a></td><td>^3.8.2</td></tr>
+    <tr><td><a href="https://github.com/Hopding/pdf-lib" target="_blank">pdf-lib Documentation</a></td><td>^1.17.1</td></tr>
+    <tr><td><a href="https://pdfmake.github.io/pdfmake/" target="_blank">Pdfmake Documentation</a></td><td>^0.2.10</td></tr>
      <tr id="react">
-      <td>React</td>
+      <td> <a href="https://reactjs.org/" target="_blank">React</a></td>
       <td>^18.2.0</td>
     </tr>
-    <tr><td>react-big-calendar</td><td>^1.12.1</td></tr>
-    <tr><td>react-bootstrap</td><td>^2.10.2</td></tr>
-    <tr><td>react-calendar</td><td>^5.0.0</td></tr>
-    <tr><td>react-chartjs-2</td><td>^5.2.0</td></tr>
-    <tr><td>react-color</td><td>^2.19.3</td></tr>
-    <tr><td>react-confetti</td><td>^6.1.0</td></tr>
-    <tr><td>react-datepicker</td><td>^6.9.0</td></tr>
-    <tr><td>react-dom</td><td>^18.2.0</td></tr>
-    <tr><td>react-flatpickr</td><td>^3.10.13</td></tr>
-    <tr><td>react-fontawesome</td><td>^1.7.1</td></tr>
-    <tr><td>react-hook-form</td><td>^7.52.1</td></tr>
-    <tr><td>react-icon</td><td>^1.0.0</td></tr>
-    <tr><td>react-icons</td><td>^5.2.1</td></tr>
-    <tr><td>react-modal</td><td>^3.16.1</td></tr>
-    <tr><td>react-pdf</td><td>^9.1.0</td></tr>
-    <tr><td>react-phone-number-input</td><td>^3.4.3</td></tr>
-    <tr><td>react-qr-code</td><td>^2.0.15</td></tr>
-    <tr><td>react-redux</td><td>^9.2.0</td></tr>
+    <tr><td><a href="https://github.com/jquense/react-big-calendar" target="_blank">react-big-calendar on GitHub</a></td><td>^1.12.1</td></tr>
+    <tr><td><a href="https://react-bootstrap.github.io/" target="_blank">react-bootstrap Documentation</a></td><td>^2.10.2</td></tr>
+    <tr><td><a href="https://github.com/wojtekmaj/react-calendar" target="_blank">react-calendar on GitHub</a> r</td><td>^5.0.0</td></tr>
+    <tr><td><a href="https://github.com/reactchartjs/react-chartjs-2" target="_blank">react-chartjs-2 on GitHub</a></td><td>^5.2.0</td></tr>
+    <tr><td> <a href="https://github.com/reactjs/react-color" target="_blank">react-color on GitHub</a></td><td>^2.19.3</td></tr>
+    <tr><td><a href="https://github.com/alampros/react-confetti" target="_blank">react-confetti on GitHub</a></td><td>^6.1.0</td></tr>
+    <tr><td><a href="https://reactdatepicker.com/" target="_blank">react-datepicker Documentation</a></td><td>^6.9.0</td></tr>
+    <tr><td><a href="https://reactjs.org/docs/react-dom.html" target="_blank">react-dom Documentation</a></td><td>^18.2.0</td></tr>
+    <tr><td><a href="https://github.com/Mosha/react-flatpickr" target="_blank">react-flatpickr on GitHub</a></td><td>^3.10.13</td></tr>
+    <tr><td> <a href="https://github.com/FortAwesome/react-fontawesome" target="_blank">react-fontawesome on GitHub</a></td><td>^1.7.1</td></tr>
+    <tr><td><a href="https://react-hook-form.com/" target="_blank">react-hook-form Documentation</a></td><td>^7.52.1</td></tr>
+    <tr><td><a href="https://github.com/ReactIcons/react-icons" target="_blank">react-icon on GitHub</a></td><td>^1.0.0</td></tr>
+    <tr><td><a href="https://react-icons.github.io/react-icons/" target="_blank">react-icons Documentation</a></td><td>^5.2.1</td></tr>
+    <tr><td> <a href="https://reactcommunity.org/react-modal/" target="_blank">react-modal Documentation</a></td><td>^3.16.1</td></tr>
+    <tr><td> <a href="https://react-pdf.org/" target="_blank">react-pdf Documentation</a</td><td>^9.1.0</td></tr>
+    <tr><td> <a href="https://github.com/islamsultan/react-phone-number-input" target="_blank">react-phone-number-input on GitHub</a></td><td>^3.4.3</td></tr>
+    <tr><td><a href="https://github.com/jorenvanhee/react-qr-code" target="_blank">react-qr-code on GitHub</a></td><td>^2.0.15</td></tr>
+    <tr><td><a href="https://react-redux.js.org/" target="_blank">react-redux Documentation</a></td><td>^9.2.0</td></tr>
      <tr id="reactrouterdom">
-      <td>react-router-dom</td>
+      <td><a href="https://reactrouter.com/" target="_blank">react-router-dom Documentation</a></td>
       <td>^6.23.1</td>
     </tr>
-    <tr><td>react-spinner</td><td>^0.2.7</td></tr>
-    <tr><td>react-spinners</td><td>^0.13.8</td></tr>
-    <tr><td>react-stomp</td><td>^5.1.0</td></tr>
-    <tr><td>react-time-picker</td><td>^7.0.0</td></tr>
-    <tr><td>react-to-print</td><td>^2.15.1</td></tr>
+    <tr><td> <a href="https://github.com/kolodny/react-spinner" target="_blank">react-spinner on GitHub</a></td><td>^0.2.7</td></tr>
+    <tr><td> <a href="https://react-spinners.github.io/react-spinners/" target="_blank">react-spinners Documentation</a></td><td>^0.13.8</td></tr>
+    <tr><td><a href="https://github.com/jmesnil/stomp-websocket" target="_blank">react-stomp on GitHub</a></td><td>^5.1.0</td></tr>
+    <tr><td> <a href="https://github.com/wojtekmaj/react-time-picker" target="_blank">react-time-picker on GitHub</a></td><td>^7.0.0</td></tr>
+    <tr><td><a href="https://github.com/gregnb/react-to-print" target="_blank">react-to-print on GitHub</a> </td><td>^2.15.1</td></tr>
    <tr id="reacttoastify">
-      <td>react-toastify</td>
+      <td><a href="https://github.com/fkhadra/react-toastify" target="_blank">react-toastify on GitHub</a></td>
       <td>^10.0.5</td>
     </tr>
-    <tr><td>react-tooltip</td><td>^5.27.1</td></tr>
-    <tr><td>react-web-share</td><td>^2.0.2</td></tr>
-    <tr><td>Recharts</td><td>^2.12.6</td></tr>
+    <tr><td><a href="https://react-tooltip.com/" target="_blank">react-tooltip Documentation</a></td><td>^5.27.1</td></tr>
+    <tr><td><a href="https://github.com/ogozu/react-web-share" target="_blank">react-web-share on GitHub</a></td><td>^2.0.2</td></tr>
+    <tr><td><a href="https://recharts.org/en-US/" target="_blank">Recharts Documentation</a></td><td>^2.12.6</td></tr>
    <tr id="socketioclient">
-      <td>socket.io-client</td>
+      <td> <a href="https://socket.io/docs/v4/client-api/" target="_blank">socket.io-client Documentation</a></td>
       <td>^4.8.1</td>
     </tr>
-    <tr><td>Sockjs</td><td>^0.3.24</td></tr>
-    <tr><td>sockjs-client</td><td>^1.6.1</td></tr>
-    <tr><td>Stompjs</td><td>^2.3.3</td></tr>
-    <tr><td>svg-to-img</td><td>^2.0.9</td></tr>
-    <tr><td>theme-change</td><td>^2.5.0</td></tr>
-    <tr><td>Xlsx</td><td>^0.18.5</td></tr>
-    <tr><td>Yup</td><td>^1.4.0</td></tr>
+    <tr><td> <a href="https://github.com/sockjs/sockjs-client" target="_blank">Sockjs on GitHub</a></td><td>^0.3.24</td></tr>
+    <tr><td><a href="https://github.com/sockjs/sockjs-client" target="_blank">sockjs-client on GitHub</a> </td><td>^1.6.1</td></tr>
+    <tr><td><a href="https://github.com/stomp-js/stompjs" target="_blank">Stompjs on GitHub</a></td><td>^2.3.3</td></tr>
+    <tr><td><a href="https://github.com/jeremydmiller/svg-to-img" target="_blank">svg-to-img on GitHub</a></td><td>^2.0.9</td></tr>
+    <tr><td><a href="https://github.com/andrejuan/theme-change" target="_blank">theme-change on GitHub</a></td><td>^2.5.0</td></tr>
+    <tr><td> <a href="https://github.com/SheetJS/js-xlsx" target="_blank">Xlsx Documentation</a></td><td>^0.18.5</td></tr>
+    <tr><td> <a href="https://github.com/jquense/yup" target="_blank">Yup Documentation</a></td><td>^1.4.0</td></tr>
   </tbody>
 </table>
 
@@ -291,51 +300,51 @@ A `package.json` file is a fundamental component in Node.js projects. It serves 
   </thead>
   <tbody>
     <tr id="eslint">
-      <td>eslint</td>
+      <td><a href="https://eslint.org/" target="_blank">eslint Documentation</a></td>
       <td>^8.57.0</td>
     </tr>
     <tr id="vite">
-      <td>Vite</td>
+      <td><a href="https://vitejs.dev/" target="_blank">Vite Documentation</a></td>
       <td>^5.3.3</td>
     </tr>
     <tr id="autoprefixer">
-      <td>Autoprefixer</td>
+      <td><a href="https://github.com/postcss/autoprefixer" target="_blank">Autoprefixer Documentation</a></td>
       <td>^10.4.19</td>
     </tr>
     <tr id="typescript">
-      <td>typescript</td>
+      <td><a href="https://www.typescriptlang.org/" target="_blank">TypeScript Documentation</a> </td>
       <td>^4.7.4</td>
     </tr>
     <tr>
-      <td>@types/react</td>
+      <td><a href="https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react" target="_blank">@types/react on GitHub</a></td>
       <td>^18.2.66</td>
     </tr>
     <tr>
-      <td>@types/react-dom</td>
+      <td><a href="https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-dom" target="_blank">@types/react-dom on GitHub</a></td>
       <td>^18.2.22</td>
     </tr>
     <tr>
-      <td>@vitejs/plugin-react</td>
+      <td><a href="https://github.com/vitejs/vite/tree/main/packages/plugin-react" target="_blank">@vitejs/plugin-react on GitHub</a></td>
       <td>^4.2.1</td>
     </tr>
     <tr>
-      <td>eslint-plugin-react</td>
+      <td> <a href="https://github.com/yannickcr/eslint-plugin-react" target="_blank">eslint-plugin-react on GitHub</a></td>
       <td>^8.57.0</td>
     </tr>
     <tr>
-      <td>eslint-plugin-react-hooks</td>
+      <td><a href="https://github.com/facebook/react/tree/main/packages/eslint-plugin-react-hooks" target="_blank">eslint-plugin-react-hooks on GitHub</a></td>
       <td>^4.6.0</td>
     </tr>
     <tr>
-      <td>eslint-plugin-react-refresh</td>
+      <td><a href="https://github.com/facebook/react/tree/main/packages/eslint-plugin-react-refresh" target="_blank">eslint-plugin-react-refresh on GitHub</a> </td>
       <td>^0.4.6</td>
     </tr>
     <tr>
-      <td>Postcss</td>
+      <td><a href="https://github.com/postcss/postcss" target="_blank">Postcss Documentation</a></td>
       <td>^8.4.39</td>
     </tr>
     <tr id="tailwindcss">
-      <td>tailwindcss</td>
+      <td><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS Documentation</a></td>
       <td>^2.1.2</td>
     </tr>
   </tbody>
@@ -445,7 +454,7 @@ npm install
   "workLocation": "Mumbai Office"
 }
 ```
-### Add Employee Post Operation:
+### Add Employee Post Operation: 
 
 ```javascript
 try {    
@@ -456,183 +465,242 @@ try {
       body: formDataToSend,
     }
   );
-  const responseBody = await response.json();
-  console.log("Response Body:", responseBody);
-  let newId = responseBody.id;
+  ```
 
-  if (response.ok) {
-    console.log(loginEmployeeName);
 
-    const emitData = {
-      employeeId: newId,
-      userType: "Recruiters",
-      employeeName: formData.employeeName,
-      dateOfJoining: getFormattedDateTime(),
-      userName: formData.userName,
-      designation: "",
-      department: "",
-      officialMail: "",
-      employeeEmail: "",
-      employeeNumber: "",
-      officialContactNumber: "",
-      alternateContactNo: "",
-      dateOfBirth: "",
-      gender: "",
-      companyMobileNumber: "",
-      whatsAppNumber: "",
-      emergencyContactPerson: "",
-      emergencyContactNumber: "",
-      emergencyPersonRelation: "",
-      employeePresentAddress: "",
-      employeeExperience: "",
-      perks: "",
-      maritalStatus: "",
-      anniversaryDate: "",
-      tshirtSize: "",
-      lastCompany: "",
-      workLocation: "",
-      entrySource: "",
-      employeeStatus: "",
-      lastWorkingDate: "",
-      reasonForLeaving: "",
-      inductionYesOrNo: "",
-      inductionComment: "",
-      trainingSource: "",
-      trainingCompletedYesOrNo: "",
-      trainingTakenCount: "",
-      roundsOfInterview: "",
-      interviewTakenPerson: "",
-      warningComments: "",
-      performanceIndicator: "",
-      teamLeaderMsg: loginEmployeeName,
-      editDeleteAuthority: "",
-      linkedInURl: "",
-      faceBookURL: "",
-      twitterURl: "",
-      employeeAddress: "",
-      bloodGroup: "",
-      aadhaarNo: "",
-      panNo: "",
-      educationalQualification: "",
-      offeredSalary: "",
-      jobRole: formData.jobRole,
-      professionalPtNo: "",
-      esIcNo: "",
-      pfNo: "",
-      employeePassword: "",
-      confirmPassword: "",
-      profileImage: null,
-      document: null,
-      resumeFile: null,
-      insuranceNumber: "",
-      reportingMangerName: "",
-      reportingMangerDesignation: "",
-    };
-    console.log(emitData);
+### Add Employee Put Operation:
+```javascript
+const response = await fetch(`${API_BASE_URL}/update-employee/${employeeId}`, {
+  method: "PUT",
+  body: formDataToSend,
+});
 
-    toast.success("Employee Data Added Successfully.");
-    socket.emit("add_recruiter_event", emitData);
-    setFormData({
-      employeeId: "0",
-      employeeName: "",
-      dateOfJoining: "",
-      userName: "",
-      designation: "",
-      department: "",
-      officialMail: "",
-      employeeEmail: "",
-      employeeNumber: "",
-      officialContactNumber: "",
-      alternateContactNo: "",
-      dateOfBirth: "",
-      gender: "",
-      companyMobileNumber: "",
-      whatsAppNumber: "",
-      emergencyContactPerson: "",
-      emergencyContactNumber: "",
-      emergencyPersonRelation: "",
-      employeePresentAddress: "",
-      employeeExperience: "",
-      perks: "",
-      maritalStatus: "",
-      anniversaryDate: "",
-      tshirtSize: "",
-      lastCompany: "",
-      workLocation: "",
-      entrySource: "",
-      employeeStatus: "",
-      lastWorkingDate: "",
-      reasonForLeaving: "",
-      inductionYesOrNo: "",
-      inductionComment: "",
-      trainingSource: "",
-      trainingCompletedYesOrNo: "",
-      trainingTakenCount: "",
-      roundsOfInterview: "",
-      interviewTakenPerson: "",
-      warningComments: "",
-      performanceIndicator: "",
-      teamLeaderMsg: "",
-      editDeleteAuthority: "",
-      linkedInURl: "",
-      faceBookURL: "",
-      twitterURl: "",
-      employeeAddress: "",
-      bloodGroup: "",
-      aadhaarNo: "",
-      panNo: "",
-      educationalQualification: "",
-      offeredSalary: "",
-      jobRole: "",
-      professionalPtNo: "",
-      esIcNo: "",
-      pfNo: "",
-      employeePassword: "",
-      confirmPassword: "",
-      profileImage: null,
-      document: null,
-      resumeFile: null,
-      insuranceNumber: "",
-      reportingMangerName: "",
-      reportingMangerDesignation: "",
-    });
-  } else {
-    toast.error("Please Fill All Inputs.");
-  }
-} catch (error) {
-  console.error("Error:", error);
-  toast.error("Error occurred while adding employee data.");
-}
 ```
-<img src="https://github.com/user-attachments/assets/a55a03e3-7ea0-4eb8-8cdf-e4d7e377e69a" width="600" height="auto" />
+### Add Employee Delete Operation:
+```javascript
+const response = await fetch(`${API_BASE_URL}/delete-employee/${employeeId}`, {
+  method: "DELETE",
+});
+
+```
+### Add Employee Get Operation:
+```javascript
+const response = await fetch(`${API_BASE_URL}/get-employee/${employeeId}`);
+const data = await response.json();
+
+```
+<img src="https://github.com/user-attachments/assets/a55a03e3-7ea0-4eb8-8cdf-e4d7e377e69a" width="1000" height="auto" />
 
 ```
 ```
-# API Request Explanation
 
-This document explains how the API request is made to the backend to add employee data.
+# Employee Management API
 
-## Making the API Request
+This API defines endpoints for managing employee data in a system. It supports operations like adding, updating, deleting, and retrieving employee details.
+
+## 1. POST (Add Employee)
+**Purpose:** To add a new employee to the system.  
+**Request:**  
+It makes a POST request to a URL that includes the `employeeId` and `userType` (e.g., role of the employee, like "manager", "staff", etc.). These are dynamic values, meaning they are replaced by actual data when the request is made.  
+**Body:**  
+The body of the request contains `formDataToSend`, which is the data of the new employee (e.g., name, email, department, etc.).  
+**Example URL:**  
+`/add-employee/123/manager`  
+(Where `123` is the `employeeId` and `manager` is the `userType`).  
+**Outcome:**  
+The server processes this data and adds the new employee to the system.
+
+## 2. PUT (Update Employee)
+**Purpose:** To update an existing employee's details.  
+**Request:**  
+It makes a PUT request to a URL that includes the `employeeId` to specify which employee to update.  
+**Body:**  
+The request body contains `formDataToSend`, which includes the updated employee details (e.g., updated name, email, etc.).  
+**Example URL:**  
+`/update-employee/123`  
+(Where `123` is the `employeeId` of the employee to be updated).  
+**Outcome:**  
+The server updates the employee's data with the new information provided in the request body.
+
+## 3. DELETE (Delete Employee)
+**Purpose:** To delete an existing employee from the system.  
+**Request:**  
+It makes a DELETE request to a URL that includes the `employeeId` of the employee to be deleted.  
+**Example URL:**  
+`/delete-employee/123`  
+(Where `123` is the `employeeId` of the employee to be deleted).  
+**Outcome:**  
+The server removes the employee's data from the system.
+
+## 4. GET (Get Employee)
+**Purpose:** To retrieve the details of a specific employee.  
+**Request:**  
+It makes a GET request to a URL that includes the `employeeId` of the employee whose details are to be fetched.  
+
+```
+
+```
+# Fetch Employee Team Details with `useEffect`
+
+This code demonstrates how to use the `useEffect` hook in React to fetch employee team details from a backend API whenever certain state variables (`currentPage` or `pageSize`) change.
+
+## Code Example
 
 ```javascript
-const response = await fetch(
-  `${API_BASE_URL}/add-employee/${employeeId}/${userType}`,
-  {
-    method: "POST",
-    body: formDataToSend,
-  }
-);
+useEffect(() => {
+  const fetchData = async (page, size) => {
+    try {
+      const response = await axios.get(
+        `${API_BASE_URL}/fetch-Team-details/${employeeId}/${userType}?page=${page}&size=${size}`
+      );
+      setEmployeeData(response.data.content);
+      setLoading(false);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+      setLoading(false);
+    }
+  };
+
+  fetchData(currentPage, pageSize);
+}, [currentPage, pageSize]);
+
+```
+# Understanding the `useEffect` Hook in React
+
+The following code demonstrates the use of the `useEffect` hook to handle side effects in a React component, specifically fetching data from an API.
+
+## Code Example
+
+```javascript
+useEffect(() => {
+  // fetchData function and API call inside the useEffect
+}, [currentPage, pageSize]);
 ```
 
-### Key Points:
-- **`fetch`** makes a request to a dynamically constructed URL.
-- **`POST`** is used to send data to the server.
-- **`formDataToSend`** contains the employee data being submitted.
+### 1. **Purpose of `useEffect`**
+- `useEffect` allows you to run side effects in your components.
+- In this example, the side effect is **fetching data from an API**.
+
+### 2. **Arguments of `useEffect`**
+The `useEffect` hook takes **two arguments**:
+1. **Callback Function**:
+   - Contains the logic for the side effect. 
+   - For example, the API fetching logic would go inside this callback.
+2. **Dependency Array**:
+   - Specifies when the effect should re-run.
+   - In this case, the dependency array is `[currentPage, pageSize]`.
+   - **Effect Behavior**: 
+     - The effect will run whenever either `currentPage` or `pageSize` changes.
+
+### 3. **When Does `useEffect` Run?**
+- **Initial Render**: The `useEffect` runs after the first render.
+- **Dependency Changes**: It re-runs whenever a value in the dependency array changes.
+- **No Dependencies**: If the array is empty (`[]`), the effect runs only once, after the component mounts.
+
+```
+```
+# API Response: Employee Data
+
+This document explains the structure and details of the API response for fetching employee data.
 
 ---
 
+## Sample JSON Response
 
-
-
-
+```json
+{
+    "content": [
+        {
+            "id": 5,
+            "contact": 9244055548,
+            "email": null,
+            "joinDate": "2024-06-10",
+            "designation": "HR Consultant",
+            "jobRole": "Recruiters",
+            "department": "IT ",
+            "reportingManger": "Nisha Singh",
+            "resume": null,
+            "status": "Active",
+            "name": "Arshad Attar R"
+        },
+        {
+            "id": 15,
+            "contact": 0,
+            "email": null,
+            "joinDate": "",
+            "designation": "",
+            "jobRole": "",
+            "department": "",
+            "reportingManger": "",
+            "resume": null,
+            "status": "",
+            "name": ""
+        },
+        {
+            "id": 16,
+            "contact": 0,
+            "email": null,
+            "joinDate": "NA",
+            "designation": "Recruiter",
+            "jobRole": "NA",
+            "department": "NA",
+            "reportingManger": "NA",
+            "resume": null,
+            "status": "NA",
+            "name": "r1"
+        },
+        {
+            "id": 17,
+            "contact": 0,
+            "email": null,
+            "joinDate": "NA",
+            "designation": "Recruiter",
+            "jobRole": "NA",
+            "department": "NA",
+            "reportingManger": "NA",
+            "resume": null,
+            "status": "NA",
+            "name": "r2"
+        },
+        {
+            "id": 18,
+            "contact": 0,
+            "email": null,
+            "joinDate": "NA",
+            "designation": "Recruiter",
+            "jobRole": "NA",
+            "department": "NA",
+            "reportingManger": "NA",
+            "resume": null,
+            "status": "NA",
+            "name": "r3"
+        }
+    ],
+    "pageable": {
+        "pageNumber": 0,
+        "pageSize": 5,
+        "sort": {
+            "sorted": false,
+            "empty": true,
+            "unsorted": true
+        },
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 22,
+    "totalElements": 106,
+    "last": false,
+    "size": 5,
+    "number": 0,
+    "sort": {
+        "sorted": false,
+        "empty": true,
+        "unsorted": true
+    },
+    "numberOfElements": 5,
+    "first": true,
+    "empty": false
+}
+```
 
