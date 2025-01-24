@@ -394,64 +394,64 @@ npm install
   "employeeName": "Sahil Karnekar",
   "dateOfJoining": "Date: 23-1-2025, Time: 3:54 PM",
   "userName": "sahilkarnekarnewrecruiter",
-  "aadhaarNo": "1234-5678-9876",
-  "alternateContactNo": "9876543210",
-  "anniversaryDate": "15-6-2025",
-  "bloodGroup": "B+",
-  "companyMobileNumber": "9000000000",
-  "confirmPassword": "password123",
-  "dateOfBirth": "15-8-1995",
-  "department": "Human Resources",
-  "designation": "Recruiter",
+  "aadhaarNo": "",
+  "alternateContactNo": "",
+  "anniversaryDate": "",
+  "bloodGroup": "",
+  "companyMobileNumber": "",
+  "confirmPassword": "",
+  "dateOfBirth": "",
+  "department": "",
+  "designation": "",
   "document": null,
-  "editDeleteAuthority": "Admin",
-  "educationalQualification": "MBA in HR",
-  "emergencyContactNumber": "9834567890",
-  "emergencyContactPerson": "Rahul Karnekar",
-  "emergencyPersonRelation": "Brother",
-  "employeeAddress": "1234, ABC Street, XYZ City, Maharashtra, 400001",
-  "employeeEmail": "sahilkarnekar@example.com",
-  "employeeExperience": "3 years",
-  "employeeNumber": "E123456",
-  "employeePassword": "password123",
-  "employeePresentAddress": "1234, ABC Street, XYZ City, Maharashtra, 400001",
-  "employeeStatus": "Active",
-  "entrySource": "Employee Referral",
-  "esIcNo": "ESIC1234567",
-  "faceBookURL": "https://www.facebook.com/sahilkarnekar",
-  "gender": "Male",
-  "inductionComment": "Completed induction training successfully.",
-  "inductionYesOrNo": "Yes",
-  "insuranceNumber": "INS1234567890",
-  "interviewTakenPerson": "Anil Kumar",
-  "jobRole": "Recruiter",
-  "lastCompany": "XYZ Pvt Ltd",
-  "lastWorkingDate": "22-1-2025",
-  "linkedInURl": "https://www.linkedin.com/in/sahilkarnekar",
-  "maritalStatus": "Single",
-  "offeredSalary": "50000",
-  "officialContactNumber": "9000000001",
-  "officialMail": "sahil.karnekar@company.com",
-  "panNo": "ABCDE1234F",
-  "performanceIndicator": "Excellent",
-  "perks": "Health Insurance, Annual Bonus",
-  "pfNo": "PF1234567890",
-  "professionalPtNo": "PT1234567",
+  "editDeleteAuthority": "",
+  "educationalQualification": "",
+  "emergencyContactNumber": "",
+  "emergencyContactPerson": "",
+  "emergencyPersonRelation": "",
+  "employeeAddress": "",
+  "employeeEmail": "",
+  "employeeExperience": "",
+  "employeeNumber": "",
+  "employeePassword": "",
+  "employeePresentAddress": "",
+  "employeeStatus": "",
+  "entrySource": "",
+  "esIcNo": "",
+  "faceBookURL": "",
+  "gender": "",
+  "inductionComment": "",
+  "inductionYesOrNo": "",
+  "insuranceNumber": "",
+  "interviewTakenPerson": "",
+  "jobRole": "Recruiters",
+  "lastCompany": "",
+  "lastWorkingDate": "",
+  "linkedInURl": "",
+  "maritalStatus": "",
+  "offeredSalary": "",
+  "officialContactNumber": "",
+  "officialMail": "",
+  "panNo": "",
+  "performanceIndicator": "",
+  "perks": "",
+  "pfNo": "",
+  "professionalPtNo": "",
   "profileImage": null,
-  "reasonForLeaving": "Looking for better opportunities",
-  "reportingMangerDesignation": "HR Manager",
-  "reportingMangerName": "Neha Sharma",
+  "reasonForLeaving": "",
+  "reportingMangerDesignation": "",
+  "reportingMangerName": "",
   "resumeFile": null,
-  "roundsOfInterview": "3 rounds",
+  "roundsOfInterview": "",
   "teamLeaderMsg": "Swapnil Rokade",
-  "trainingCompletedYesOrNo": "Yes",
-  "trainingSource": "Internal Training Program",
-  "trainingTakenCount": "2",
-  "tshirtSize": "L",
-  "twitterURl": "https://twitter.com/sahilkarnekar",
-  "warningComments": "None",
-  "whatsAppNumber": "9876543210",
-  "workLocation": "Mumbai Office"
+  "trainingCompletedYesOrNo": "",
+  "trainingSource": "",
+  "trainingTakenCount": "",
+  "tshirtSize": "",
+  "twitterURl": "",
+  "warningComments": "",
+  "whatsAppNumber": "",
+  "workLocation": ""
 }
 ```
 ### Add Employee Post Operation: 
@@ -495,6 +495,7 @@ const data = await response.json();
 ```
 
 # Employee Management API
+
 
 This API defines endpoints for managing employee data in a system. It supports operations like adding, updating, deleting, and retrieving employee details.
 
@@ -565,6 +566,7 @@ useEffect(() => {
 }, [currentPage, pageSize]);
 
 ```
+
 # Understanding the `useEffect` Hook in React
 
 The following code demonstrates the use of the `useEffect` hook to handle side effects in a React component, specifically fetching data from an API.
@@ -576,6 +578,8 @@ useEffect(() => {
   // fetchData function and API call inside the useEffect
 }, [currentPage, pageSize]);
 ```
+
+
 
 ### 1. **Purpose of `useEffect`**
 - `useEffect` allows you to run side effects in your components.
@@ -603,7 +607,8 @@ The `useEffect` hook takes **two arguments**:
 
 This document explains the structure and details of the API response for fetching employee data.
 
----
+```
+```
 
 ## Sample JSON Response
 
