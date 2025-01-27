@@ -1,6 +1,8 @@
 <h1><a href="http://rg.157careers.in/" target="_blank"> Recruiter's Gear Documentation</a></h1>
 
 
+
+  
 <Table>
   <thead>
     <tr>
@@ -14,52 +16,52 @@
   <tbody>
     <tr>
       <td><b>Purpose</b></td>
-        <td><a href " ">Comprehensive Solutions</a></td>
-        <td><a href " ">Comprehensive Solutions</a></td>
-        <td><a href " ">Comprehensive Solutions</a></td>
-     <td><a href " ">Comprehensive Solutions</a></td>
+        <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
+        <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
+	<td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
+        <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
     </tr>
     <tr>
       <td><b>Target Audience</b></td>
-      <td><a href = " " style="text-decoration: none;">Back-End: Code Structure, <a/><a href = " ">Front-End: Code Structure<a/></td>
-      <td><a href = " ">Back-End: Code Structure, <a/></td>
+      <td><a href = "#back-end-code-flow">Back-End: Code Structure, <a/><a href = "#front-end-code-flow">Front-End: Code Structure<a/></td>
+      <td><a href = "#back-end-code-flow">Back-End: Code Structure<a/></td>
       <td><a href = " "><a/></td>
-      <td><a href = " ">Back-End: Code Structure, <a/><a href = " ">Front-End: Code Structure, <a/><a href = " "><a/><a href = " ">Front-End: API CRUD Operation, <a/><a href = " ">SocketIO, <a/><a href = " ">Back-End: CRUD Operation, <a/><a href = " ">Front-End: CRUD Operation<a/></td>
+      <td><a href = "#back-end-code-flow">Back-End: Code Structure, <a/><a href = "#front-end-code-flow">Front-End: Code Structure, <a/><a href = " "><a/><a href = "#api-fetching-in-react">Front-End: API CRUD Operation, <a/><a href = "#socketio">SocketIO, <a/></td>
     </tr>
     <tr>
       <td><b>Level of Details</b></td>
-      <td><a href = " ">Code Convention<a/></td>
-      <td><a href = " ">Front-End: Development workflow, <a/><a href = " ">Front-End: Development workflow<a/></td>
-      <td><a href = " ">Back-End: Flow Chart, <a/><a href = " ">Front-End: Logic Flow Chart, <a/><a href = " ">Back-End: Logic Flow Chart, <a/><a href = " ">Front-End: Development workflow<a/></td>
-      <td><a href = " ">Code Convention, <a/><a href = " ">Front-End: Development workflow<a/></td>
+      <td><a href = "#best-practices">Code Convention, <a/><a href = "#database">Database, <a/><a href = "#testing-reports">Testing Reports<a/></td>
+      <td><a href = "#development-workflow-full-stack">Front-End: Development workflow, <a/><a href = "#development-workflow-full-stack">Back-End: Development workflow<a/></td>
+      <td><a href = "#full-stack-development-flowchart">Back-End: Flow Chart, <a/><a href = "#full-stack-development-flowchart">Front-End: Logic Flow Chart, <a/><a href = "#development-workflow-full-stack">Back-End: Development workflow, <a/><a href = "#development-workflow-full-stack">Front-End: Development workflow<a/></td>
+      <td><a href = "#best-practices">Code Convention, <a/><a href = "#development-workflow-full-stack">Back-End: Development workflow, <a/><a href = "#database">Database, <a/><a href = "#testing-reports">Testing Reports<a/></td>
     </tr>
     <tr>
       <td><b>Focus Area</b></td>
-      <td><a href = " ">Error Handling<a/></td>
+      <td><a href = "#error-handling">Error Handling<a/></td>
       <td><a href = " "><a/></td>
       <td><a href = " "><a/></td>
-      <td><a href = " ">Error Handling<a/></td>
+      <td><a href = "#error-handling">Error Handling<a/></td>
     </tr>
     <tr>
       <td><b>Examples</b></td>
-      <td><a href = " ">Front-End: App.js Details<a/></td>
+      <td><a href = "#details-about-app-dot-jsx">Front-End: App.jsx Details<a/></td>
       <td><a href = " "><a/></td>
       <td><a href = " "><a/></td>
-      <td><a href = " ">Back-End: How to Install?, <a/><a href " ">Back-End: How to Run?, </a><a href = " ">Front-End: How to Install?, <a/><a href " ">Front-End: How to Run?, </a><a href = " ">Front-End: App.js Details<a/></td>
+      <td><a href = "#back-end">Back-End: How to Install?, <a/><a href= "#back-end">Back-End: How to Run?, </a><a href = "#front-end">Front-End: How to Install?, <a/><a href = "#front-end">Front-End: How to Run?, </a><a href = "#details-about-app-dot-jsx">Front-End: App.jsx Details<a/></td>
     </tr>
     <tr>
       <td><b>Format</b></td>
-      <td><a href = " ">Back-End: End-Points, <a/><a href = " ">Types of Controller, <a/><a href = " ">Back-End: Project Structure, <a/><a href = " ">Front-End: Project Structure<a/></td>
-      <td><a href = " ">Back-End: End-Points, <a/><a href = " ">Types of Controllers, <a/><a href = " ">Back-End: Project Structure, <a/><a href = " ">Front-End: Project Structure<a/></td>
-      <td><a href = " ">Back-End: End-Points, <a/><a href = " "><a/></td>
-      <td><a href = " ">Back-End: End-Points, <a/><a href = " ">Types of Controllers, <a/><a href = " ">Back-End: Project Structure, <a/><a href = " ">Front-End: Project Structure<a/></td>
+      <td><a href = "#understanding-endpoints">Back-End: End-Points, <a/><a href = "#back-end-project-structure">Back-End: Project Structure, <a/><a href = "#front-end-project-structure">Front-End: Project Structure<a/></td>
+      <td><a href = "#understanding-endpoints">Back-End: End-Points, <a/><a href = " ">Types of Controllers, <a/><a href = "#back-end-project-structure">Back-End: Project Structure, <a/><a href = "#front-end-project-structure">Front-End: Project Structure<a/></td>
+      <td><a href = "#understanding-endpoints">Back-End: End-Points, <a/><a href = " "><a/></td>
+      <td><a href = "#understanding-endpoints">Back-End: End-Points, <a/><a href = " ">Types of Controllers, <a/><a href = "#back-end-project-structure">Back-End: Project Structure, <a/><a href = "#front-end-project-structure">Front-End: Project Structure<a/></td>
     </tr>
     <tr>
       <td><b>Requirements</b></td>
-      <td><a href = " ">ENV Variable, <a/><a href = " ">Front-End: Dependencies & Versions, <a/><a href = " ">Back-End: Dependencies & Versions, <a/><a href = " ">SocketIO<a/><a href = " ">Back-End: application.properties, <a/><a href = " ">Fron-End: pacakge.json file, <a/><a href = " ">Front-End: npm libraries<a/></td>
-      <td><a href = " ">Application Compatibility: Software/Hardware, <a/><a href = " ">Subscription<a/></td>
-      <td><a href = " ">Application Compatibility: Software/Hardware, <a/><a href = " ">Subscription<a/></td>
-      <td><a href = " ">Technologies: Front-End, Back-End, Database, Cloud, Authentication, Version Control, Servers, <a/><a href = " ">ENV Variable, <a/><a href = " "><a/><a href = " ">Front-End: Dependencies & Versions, <a/><a href = " ">Back-End: Dependencies & Versions, <a/><a href = " ">SocketIO Server, <a/><a href = " ">Back-End: application.properties, <a/><a href = " ">Front-End: pacakge.json file, <a/><a href = " ">Front-End: npm libraries, <a/><a href = " ">Front-End: CSS, Tailwind<a/></td>
+      <td><a href = "#how-to-set-the-path-of-the-environment-variable">ENV Variable, <a/><a href = "#front-end-dependencies">Front-End: Dependencies & Versions, <a/><a href = "#back-end-dependencies">Back-End: Dependencies & Versions, <a/><a href = "#socketio">SocketIO<a/><a href = "#configuration-of-application-dot-properties">Back-End: application.properties, <a/><a href = "#about-package-dot-json">Fron-End: pacakge.json file, <a/><a href = " ">Front-End: npm libraries<a/></td>
+      <td><a href = "#software-and-hardware-compatibility">Application Compatibility: Software/Hardware, <a/><a href = "#subscription">Subscription<a/></td>
+      <td><a href = "#software-and-hardware-compatibility">Application Compatibility: Software/Hardware, <a/><a href = "#subscription">Subscription<a/></td>
+      <td><a href = "#technologies">Technologies: Front-End, Back-End, Database, Cloud, Authentication, Version Control, Servers, <a/><a href = "#how-to-set-the-path-of-the-environment-variable">ENV Variable, <a/><a href = " "><a/><a href = "#front-end-dependencies">Front-End: Dependencies & Versions, <a/><a href = "#back-end-dependencies">Back-End: Dependencies & Versions, <a/><a href = "#socketio">SocketIO Server, <a/><a href = "#configuration-of-application-dot-properties">Back-End: application.properties, <a/><a href = "#about-package-dot-json">Front-End: pacakge.json file, <a/><a href = "#dependencies">Front-End: npm libraries, <a/><a href = "#css-tailwind-bootstrap">Front-End: CSS, Tailwind<a/></td>
     </tr>
   </tbody>
 </Table>
@@ -132,7 +134,7 @@
 - **6.2.3. Distributed Nature**: Git's distributed model enables every developer to have their own local copy of the repository, which improves speed and offline work.
 
 
-## Topic: How to Install / Run?
+### Topic: How to Install / Run?
 
 ### Front-End:
 
@@ -325,7 +327,7 @@ This command launches the development server, which watches for changes to your 
 
 ### Back-End:
 
-## JDK
+### JDK
 
 #### 1.1: What is JDK?
 
@@ -706,7 +708,7 @@ Spring Initializr also supports generating projects with specific versions of Sp
 
 ---
 
-## **Project Structure**
+### **Project Structure**
 
 ### **Front-End Project Structure:**
 
@@ -973,7 +975,7 @@ npm install
 
 ---
 
-### About `package.json`:
+### About package dot json:
 
 A `package.json` file is a fundamental component in Node.js projects. It serves as a metadata file for the project and contains important information about the project, including dependencies, scripts, and other configurations.
 
@@ -1031,7 +1033,7 @@ This command launches the development server, which watches for changes to your 
 
 ---
 
-### CSS - Tailwind, Bootstrap
+### CSS-Tailwind and Bootstrap
 
 #### 7.1 Tailwind CSS
 <a href="https://tailwindcss.com/" target="_blank" >Tailwind</a> CSS offers a utility-first approach to styling, which can greatly speed up the development process. It allows you to apply styles directly in your JSX, reducing the need to switch between CSS and JavaScript files.
@@ -1123,7 +1125,7 @@ export default App;
 
 ---
 
-### App.jsx 
+### Details about App dot jsx 
 
 In a React application, `App.jsx` is a central component file that typically serves as the entry point for rendering the main application. It acts as the root component of your React app and often contains the core structure and layout of the application.
 
@@ -1317,13 +1319,13 @@ ATS_Backend
 
 ```
 <dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-data-jpa</artifactId>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
 <p> <dependency> with the group ID org.springframework.boot and artifact ID spring-boot-starter-data-jpa is a Spring Boot starter that  simplifies the integration of Spring Data JPA into your application. It provides all the necessary libraries and tools required for working  with relational databases using JPA (Java Persistence API) and Hibernate.</p>
 <h4>Key Features:</h4>
-    
+	
 - **JPA Integration**: Enables the use of JPA for object-relational mapping (ORM) to map Java objects to database tables.
 
 - **Hibernate Support**: Includes Hibernate as the default JPA implementation, providing advanced ORM capabilities.
@@ -1359,10 +1361,10 @@ ATS_Backend
 
 ```
 <dependency>
-    <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-devtools</artifactId>
-        <scope>runtime</scope>
-    <optional>true</optional>
+	<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-devtools</artifactId>
+		<scope>runtime</scope>
+	<optional>true</optional>
 </dependency>
 ```
 <p>This dependency is used to improve the development workflow by providing features such as automatic restarts, live reload, and remote debugging for Spring Boot applications. It’s meant for use during the development phase only.</p>
@@ -1949,7 +1951,7 @@ Note: While com.sun.mail is a common implementation of the JavaMail API, other i
 
 ---
 
-### 3. SocketIO
+### SocketIO
 
 #### 3.1. What is Socket.IO?
 
@@ -2434,7 +2436,7 @@ This setup demonstrates how to use **Socket.IO** for real-time communication bet
 
 ---
 
-### 4. Configuration of application.properties
+### Configuration of application dot properties
 
 #### 3.1. what is application.properties?
 In Spring Boot, `application.properties` is a configuration file that allows you to set various properties to customize the behavior of the application. It's the default file used to store configuration settings for different components of a Spring Boot application, such as the server, database, logging, security, and more.
@@ -2453,7 +2455,7 @@ You can use `application.properties` to configure your Spring Boot application i
 
 ---
 
-##How has the application.properties file been configured in the application?
+#### How has the application.properties file been configured in the application?
 ```java
 spring.application.name=157-project1
 server.port=3000
@@ -2529,7 +2531,7 @@ This configuration file is typically found in the `application.properties` file 
 
 ---
 
-### Development Workflow: Full-Stack
+### Development Workflow Full-Stack
 
 #### Front-End Interaction:
 
@@ -2585,7 +2587,7 @@ This workflow ensures that user actions are processed efficiently, data is manag
 
 ---
 
-### Fron-End Code flow:
+### Front-End Code flow:
 
 #### Request Body:
 ```json
@@ -2804,14 +2806,13 @@ The `useEffect` hook takes **two arguments**:
 
 ```
 ```
-# API Response: Employee Data
+#### API Response: Employee Data
 
 This document explains the structure and details of the API response for fetching employee data.
 
 ```
-```
 
-## Sample JSON Response
+#### Sample JSON Response
 
 ```json
 {
@@ -2912,7 +2913,7 @@ This document explains the structure and details of the API response for fetchin
 
 ---
 
-### 5. Back-End Code flow
+###  Back-End Code flow
 
 #### 3.1. Add Employee
 
@@ -2926,9 +2927,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-    public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
 
 }
 ```
@@ -3752,7 +3753,7 @@ Certainly! Here's the explanation in Markdown format:
 
 ---
 
-## **Purpose:**
+#### **Purpose:**
 This endpoint is designed to delete an employee from the database using their employee ID.
 
 #### **@DeleteMapping("/{empId}")**:
@@ -3828,7 +3829,7 @@ Certainly! Below is the **summary of endpoints** and **key points** in markdown 
 
 ---
 
-## **Summary of Endpoints**
+#### **Summary of Endpoints**
 
 #### **1. GET /api/employee/{empId}** - Get an Employee by ID
 
@@ -3906,7 +3907,9 @@ Certainly! Below is the **summary of endpoints** and **key points** in markdown 
 
 ---
 
-Complete front end, summary of workflow of both frontend and backend
+### Full-Stack Development flowchart:
+
+![Full Stack development](https://github.com/user-attachments/assets/451a6d7c-9d12-441e-b83f-a2bd8f189ddc)
 
 ---
 
@@ -3914,7 +3917,7 @@ Complete front end, summary of workflow of both frontend and backend
 
 #### Recruiters Gear Database Documentation
 
-#### 📦 Introduction to the Database:
+#### Introduction to the Database:
 The **Recruiters Gear** project uses **MySQL** as its database management system to store, manage, and retrieve structured data efficiently. MySQL is a widely adopted relational database that is reliable, robust, and scalable, making it an ideal choice for web applications like Recruiters Gear.
 
 In this project, MySQL is utilized to handle critical data such as:
@@ -3927,7 +3930,7 @@ In this project, MySQL is utilized to handle critical data such as:
 #### Version of MySQL used in Recruiter's Gear:
 This project uses **MySQL version 8.4.3**, the latest stable release as of **October 15, 2024**. MySQL 8.4.3 brings significant performance improvements, enhanced security features, and expanded support for JSON functions, making it a robust and reliable choice for database management in modern applications.
 
-#### 🔑 Why MySQL is Ideal for This Project:
+#### Why MySQL is Ideal for This Project:
 
 1. **Open-Source and Cost-Effective**  
    MySQL is open-source, meaning it is free to use and provides all the essential features for database management without licensing costs. It is supported by a large community, ensuring continuous improvements and 
@@ -3984,7 +3987,7 @@ This project uses **MySQL version 8.4.3**, the latest stable release as of **Oct
 - **Ease of Backup and Restoration**: Regular backups are simple with MySQL, ensuring the safety of critical data.
 - **Future Scalability**: As Recruiters Gear grows, MySQL's ability to handle more users, more data, and more transactions ensures that it remains a robust choice.
 
-#### 🏛️ **MySQL Database Architecture**
+#### MySQL Database Architecture
 
 #### 1) Database Design
 - **Schema Overview**: The MySQL database is organized into multiple schemas representing different modules of the application (e.g., users, orders, transactions, products).
@@ -4113,8 +4116,9 @@ public class DatabaseConnectionTest {
 }
 ```
 
-### 📊 Data Types and Constraints Used in MySQL:
-#### 📝 Tabular Format (Recommended):
+#### Data Types and Constraints Used in MySQL:
+
+####  Tabular Format (Recommended):
 To provide a clear overview of the database schema, a tabular format is used to detail the columns, their data types, constraints, and descriptions for each table in the database. This structure helps developers quickly understand the database design and relationships between tables.
 
 #### Table: `employee`
@@ -4198,7 +4202,7 @@ SELECT * FROM employee_department_view;
 
 ---
 
-### **Compatibility: Software/Hardware**
+### Software and Hardware Compatibility 
 
 #### Application Compatibility
 
@@ -4262,7 +4266,7 @@ To summarize, the application is compatible with desktop devices and does not re
 
 ---
 
-#### **Purpose**
+### Comprehensive Solutions
 
 #### Application Purpose Overview
 
@@ -4568,9 +4572,30 @@ Our subscription-based ATS offers flexible plans to suit businesses of all sizes
 
 ---
 
-### Testing Report
+### Application flowcharts:
+
+#### Recruiter' Gear application flowchart:
+
+![Regruiter's Gear](https://github.com/user-attachments/assets/a942fdef-8940-47a2-84b5-9d977ab621ff)
+
+#### Manager's flowchart:
+
+![Manager](https://github.com/user-attachments/assets/90046df8-5d83-4e89-b0ed-6b2a1df99610)
+
+#### Team Lead's flowchart:
+
+![Team Leader](https://github.com/user-attachments/assets/31ff2a35-b6e0-41b1-8bbb-2d77469db8b4)
+
+#### Recruiter's flowchart:
+
+![Recruiter](https://github.com/user-attachments/assets/7ab81931-1552-49b7-bc3a-5e5377d894a0)
+
+---
+
+### Testing Reports
 
 #### **Manual Testing:**
+
 ---
 
 #### **Manual Testing** is the process of manually executing test cases without the use of automation tools to ensure that software behaves as expected. It involves a tester following a set of predefined test scenarios to identify bugs or issues in the software.
@@ -4601,8 +4626,30 @@ In short, **manual testing** is a critical quality assurance process that ensure
 
 ![WhatsApp Image 2025-01-24 at 2 27 09 PM](https://github.com/user-attachments/assets/0d90a2d2-a8e8-45c3-9519-bc18c0955b6e)
 
+#### **Structure of a Manual Test Case: **
+
+Test Case ID: A unique identifier for the test case (e.g., TC001). 
+
+Test Case Name: A short and descriptive title (e.g., "Verify Login Functionality"). 
+
+Preconditions: Any setup or prerequisites required before executing the test case (e.g., "User should be registered"). 
+
+Test Steps: Detailed steps to execute the test case. 
+
+Test Data: Data inputs required for the test (if applicable). 
+
+Expected Result: The desired outcome if the system behaves correctly. 
+
+Actual Result: The result observed after execution (filled in during testing). 
+
+Pass/Fail: The status of the test case based on comparison between expected and actual results. 
+
+Comments: Any additional observations or notes 
+
+---
 
 #### **Automation Testing:**
+
 ---
 
 An **Automation Report** generated from tests run using **Selenium** provides detailed insights into the outcomes of automated test executions. Selenium is an open-source tool for automating web applications across different browsers. After running tests, an automation report summarizes key information such as test success, failure, and errors, which helps in tracking the quality of the application.
@@ -4662,8 +4709,62 @@ In summary, an **automation report** from Selenium provides valuable insights in
 
 ![Image 1-24-25 at 12 40 PM](https://github.com/user-attachments/assets/0920a4eb-3407-4adc-bc06-b698a271770d)
 
+An automation test report is a detailed document generated after running automated test scripts to validate the functionality, performance, and reliability of a software application. 
+
+#### Here’s a breakdown of key elements in an automation test report: 
+
+#### Test Execution Summary:  
+
+1.Overview of the number of tests run, passed, failed, skipped, or blocked. 
+
+2. It also include the duration of the test execution. 
+
+     2.   Test Status: 
+
+          - Status of individual test cases (e.g., passed, failed, skipped, or in progress). 
+
+     3. Test Case Details: 
+
+          - Each test case's execution result is included, along with any relevant information, such                         as: 
+
+            - Test case ID 
+
+            - Description 
+
+            - Expected vs. actual results 
+
+            - Steps executed 
+
+            - Pass/fail status 
+
+            - Errors or exceptions encountered 
+
+            - Screenshots or logs (if configured). 
+
+4. Error/Failure Details: 
+
+   - A detailed report of failed tests, including the error message, stack trace, or logs associated with the failure. 
+
+   - It helps to diagnose issues and identify potential bugs or inconsistencies in the application. 
+
+5. Test Coverage: 
+
+   - Information on which features or functionalities were covered during the test execution. 
+
+6. Test Run Environment: 
+
+   - Details about the test environment, such as: 
+
+   - Operating system 
+
+   - Browser version 
+
+Test cases are step-by-step instructions used to verify that a specific functionality of a system works as expected. These are executed manually by a tester without the use of automation tools. Here's a general structure for writing manual test cases: 
+
+---
 
 #### **Performance Testing:**
+
 ---
 
 **Performance Testing** using **Apache JMeter** is a widely-used approach for testing the performance, scalability, and stability of web applications and services. JMeter is an open-source tool designed for load testing and measuring the performance of various services, including web servers, databases, and applications.
@@ -4766,8 +4867,67 @@ In summary, an **automation report** from Selenium provides valuable insights in
 
 ![Image 1-24-25 at 12 49 PM](https://github.com/user-attachments/assets/5253c313-d8fd-44ed-8461-41de0ef2323e)
 
+#### **Analyzing JMeter Test Results**
+
+Analyzing JMeter test results is crucial to understanding the performance of your application and identifying bottlenecks. JMeter provides several listeners to help analyze data. Here's a step-by-step guide to analyze results effectively:
+
+#### 1. Key Metrics to Analyze
+
+When analyzing results, focus on the following metrics:
+
+| Metric        | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| **Response Time** | Time taken for a request to be processed. Look at Min, Max, and Average response times. |
+| **Throughput**    | Number of requests handled by the server per second. Higher throughput is generally better. |
+| **Error Rate**    | Percentage of failed requests. High error rates indicate server instability or misconfiguration. |
+| **Latency**       | Time taken to send the request to the server and receive the first byte of the response. |
+| **Concurrency**   | Number of users being served simultaneously. |
+
+#### 2. Using Listeners
+
+JMeter provides different listeners to visualize and analyze results. Here are some commonly used ones:
+
+#### a. View Results Tree
+
+- Shows the details of each request and response (raw data).
+- Useful for debugging and verifying request data and responses.
+
+#### b. Summary Report
+
+Provides a tabular view of key metrics:
+
+| Metric       | Description                                                       |
+|--------------|-------------------------------------------------------------------|
+| **Sample**   | Total number of requests.                                         |
+| **Average**  | Average response time.                                            |
+| **Min / Max**| Minimum and maximum response times.                               |
+| **Error %**  | Percentage of failed requests.                                    |
+| **Throughput**| Requests per second.                                              |
+| **KB/sec**   | Amount of data processed per second.                              |
+
+#### Example Analysis
+
+- **Users**: 75
+- **Ramp-Up Period**: 1 second
+- **Loop Count**: 1
+
+| Metric                | Value         |
+|-----------------------|---------------|
+| **Response Time (Avg)** | 350ms         |
+| **Throughput**         | 0.90 requests/sec |
+| **Error %**            | 14.67 %       |
+| **90th Percentile Time** | 40599 ms     |
+
+#### Observations:
+
+- Response times are within SLA.
+- Throughput is stable at 0.90 requests/sec.
+- Error percentage is high, indicating the system did not handle the load well.
+
+---
 
 #### **Security Testing:**
+
 ---
 
 **Security Testing** with tools like **OWASP ZAP (Zed Attack Proxy)** and **Burp Suite** helps identify vulnerabilities in web applications, ensuring they are secure from potential attacks like SQL injection, cross-site scripting (XSS), and more.
@@ -4830,5 +4990,1146 @@ Both **OWASP ZAP** and **Burp Suite** are essential tools in security testing fo
 
 ![Image 1-24-25 at 6 04 PM](https://github.com/user-attachments/assets/092f2ee3-10c2-4ace-b32b-026cdcb722e7)
 
+#### **Sections of a ZAP Security Report**
 
+#### 1. Executive Summary
 
+- Provides an overview of the security assessment.
+- Highlights the total number of alerts, their severity levels (High, Medium, Low, and Informational), and key findings.
+
+#### 2. Target Information
+
+Includes details about the target system or application that was scanned:
+
+- **URL(s) scanned**
+- **Date and time of the scan**
+- **Scanner version**
+
+#### 3. Vulnerability Findings
+
+A categorized list of discovered vulnerabilities, including:
+
+| **Field**        | **Description**                                                                 |
+|------------------|---------------------------------------------------------------------------------|
+| **Alert Title**  | Name of the vulnerability (e.g., "SQL Injection", "Cross-Site Scripting").       |
+| **Risk Level**   | Severity of the vulnerability (High, Medium, Low, Informational).               |
+| **Description**  | Explains the issue and its potential impact.                                     |
+| **URLs Affected**| List of endpoints where the vulnerability exists.                               |
+| **Instances**    | Number of occurrences for the specific vulnerability.                           |
+| **Evidence**     | Proof that the vulnerability exists, such as HTTP requests and responses.       |
+| **Recommendation**| Remediation steps to fix the vulnerability.                                     |
+
+#### 4. Scan Progress and Settings
+
+Details on how the scan was configured:
+
+- **Spidering depth**
+- **Authentication used** (if applicable)
+- **Types of tests performed** (active scan, passive scan, etc.)
+
+---
+
+### Code Convention
+
+#### **Best Coding Practices for ReactJS**
+
+#### 1. Component Design
+- **Small, Reusable Components**: Create small, reusable components to improve maintainability and testability. Each component should ideally do one thing.
+- **Functional Components**: Prefer using functional components with hooks (`useState`, `useEffect`, etc.) over class components.
+- **Avoid Large Components**: If a component becomes too large, break it down into smaller, more manageable ones.
+
+#### 2. State Management
+- **Local State**: Use `useState` for managing local state within a component.
+- **Global State**: For shared state, use Context API for simpler use cases or Redux for more complex state management needs.
+- **Avoid Overusing Redux**: Don't use Redux for simple state management. The Context API or just React's state management may suffice.
+
+#### 3. Performance Optimization
+- **React.memo()**: Use `React.memo()` to prevent unnecessary re-renders of functional components.
+- **Lazy Loading**: Use `React.lazy()` and `Suspense` to load components only when necessary (code splitting).
+- **useMemo and useCallback**: Use these hooks to memoize values and functions, avoiding unnecessary recalculations and re-renders.
+
+#### 4. Error Handling
+- **Error Boundaries**: Use error boundaries to catch JavaScript errors in your component tree and display a fallback UI instead of crashing the whole app.
+- **Proper Async Handling**: Handle asynchronous code (e.g., API calls) with proper error handling, using `try-catch` blocks.
+
+#### 5. Code Organization
+- **Folder Structure**: Organize your code into clear folders for components, hooks, pages, services, and utilities:
+
+    ```bash
+    src/
+      components/
+      pages/
+      services/
+      hooks/
+      utils/
+    ```
+
+- **Separation of Concerns**: Separate business logic from UI components. Place data-fetching and API calls in services or custom hooks.
+
+#### 6. Styling
+- **CSS-in-JS**: Consider using styled-components or Emotion for scoped CSS inside your components.
+- **Avoid Inline Styles**: Minimize inline styles as they may cause re-renders and performance issues.
+
+#### 7. Code Quality
+- **Linting**: Use ESLint to enforce coding standards and maintain consistency across your codebase.
+- **Code Formatting**: Use Prettier for automatic code formatting to keep the codebase clean.
+- **Consistent Naming Conventions**: Use consistent and descriptive naming for variables, functions, and components.
+
+---
+
+#### **Best Coding Practices for Spring Boot**
+
+#### 1. Project Structure
+- **Layered Architecture**: Follow a layered architecture with clear separation between the controller, service, and repository layers. This improves testability and maintainability.
+    - **Controller Layer**: Handles HTTP requests.
+    - **Service Layer**: Contains business logic.
+    - **Repository Layer**: Manages data access.
+- **DTO (Data Transfer Object)**: Use DTOs for communication between layers, especially for API responses, instead of returning entities directly.
+
+#### 2. Configuration Management
+- **Externalized Configuration**: Store configuration values (e.g., database credentials) in `application.properties` or `application.yml` files, and externalize them for different environments (e.g., development, production).
+- **Profile-based Configuration**: Use Spring Profiles (`@Profile`) to differentiate configurations for different environments.
+
+#### 3. Database and Persistence
+- **Spring Data JPA**: Use Spring Data JPA for data access. Avoid writing custom queries when the built-in methods are sufficient.
+- **Avoid N+1 Query Problem**: Use `@EntityGraph` or fetch join queries to avoid unnecessary database queries.
+- **Pagination**: Use pagination for large datasets to reduce memory consumption and improve performance.
+
+#### 4. Security
+- **Spring Security**: Always secure your APIs using Spring Security. Use JWT or OAuth for stateless authentication in modern web applications.
+- **Role-based Access Control**: Use role-based access control (RBAC) to assign appropriate permissions to users based on their roles.
+- **Principle of Least Privilege**: Restrict access rights to the minimum necessary for the functioning of each user or process.
+
+#### 5. Exception Handling
+- **Global Exception Handling**: Use `@ControllerAdvice` for global exception handling, making it easier to handle errors consistently across the application.
+- **Custom Error Messages**: Provide meaningful error messages in your responses to make it easier for clients to diagnose issues.
+
+#### 6. Performance Optimization
+- **Caching**: Use Spring Cache with providers like Redis or EhCache to cache frequently used data and reduce database load.
+- **Asynchronous Processing**: Use `@Async` for tasks that can run in the background without blocking the main thread (e.g., sending emails, generating reports).
+- **Database Connection Pooling**: Use connection pooling (HikariCP, which is the default in Spring Boot) for efficient database connections.
+
+#### 7. Testing
+- **Unit Tests**: Write unit tests for service and utility methods using JUnit and Mockito.
+- **Integration Tests**: Use `@SpringBootTest` for integration tests to ensure that different layers of the application are working together as expected.
+- **Test Coverage**: Aim for high test coverage, but avoid testing trivial code. Use tools like JaCoCo to track test coverage.
+
+---
+
+#### **Best Coding Practices for MySQL**
+
+#### 1. Database Design
+- **Normalization**: Follow the rules of database normalization (up to 3NF) to eliminate data redundancy and ensure data integrity.
+- **Use Primary Keys**: Always use primary keys to uniquely identify records in a table.
+- **Indexing**: Create indexes on frequently queried columns (e.g., foreign keys, columns used in WHERE clauses) to improve query performance.
+
+#### 2. Query Optimization
+- **Avoid SELECT ***: Instead of using `SELECT *`, explicitly list the columns you need to avoid unnecessary data retrieval.
+- **Use Joins Wisely**: Use `INNER JOIN` and `LEFT JOIN` appropriately. Be mindful of the performance impact of complex joins.
+- **Limit Query Results**: Always limit the number of rows returned using `LIMIT` or pagination for queries that fetch large datasets.
+- **Avoid N+1 Queries**: Use `JOIN` or `IN` to fetch related data in a single query rather than multiple separate queries.
+
+#### 3. Transaction Management
+- **ACID Compliance**: Ensure that your transactions follow the ACID properties (Atomicity, Consistency, Isolation, Durability) to maintain database integrity.
+- **Use Proper Isolation Levels**: Set appropriate isolation levels for transactions based on business requirements to avoid issues like dirty reads and lost updates.
+- **Commit and Rollback**: Always use proper commit and rollback handling to ensure that database operations are either fully completed or fully reverted in case of an error.
+
+#### 4. Data Integrity
+- **Foreign Keys**: Use foreign keys to enforce relationships between tables and maintain referential integrity.
+- **Avoid Storing Business Logic in Database**: Avoid using triggers and stored procedures for business logic; it is better to handle this logic in the application layer.
+
+#### 5. Database Backup and Recovery
+- **Regular Backups**: Schedule regular backups (daily, weekly) to ensure that data is recoverable in case of system failure.
+- **Use Replication for High Availability**: Set up master-slave replication for high availability and disaster recovery purposes.
+
+#### 6. Security
+- **Use Prepared Statements**: Always use prepared statements or ORM frameworks like Hibernate to prevent SQL injection attacks.
+- **Limit Database Access**: Restrict database access to authorized applications and users only, and use the principle of least privilege.
+
+#### 7. Database Monitoring
+- **Slow Query Log**: Enable MySQL's slow query log to identify queries that take a long time to execute. Optimize these queries.
+- **Database Monitoring Tools**: Use tools like Percona Monitoring and Management (PMM) or MySQL Enterprise Monitor for real-time database performance monitoring.
+
+---
+
+### Error Handling
+
+#### Error Handling in Detail for ReactJS
+
+Effective error handling is critical in ReactJS applications to ensure that unexpected issues don't break the user experience and that developers can easily diagnose problems. React provides several tools and techniques for managing errors, both **synchronous** (JavaScript errors) and **asynchronous** (API or network requests).
+
+Let's dive deeper into how to handle errors effectively in ReactJS.
+
+#### **1. Error Boundaries (for Synchronous Errors)**
+
+React Error Boundaries are a way to catch JavaScript errors in the component tree and display a fallback UI rather than letting the entire app crash. Error boundaries only catch errors in their child components, **not event handlers**, **asynchronous code**, or **errors thrown in the constructor**.
+
+## How Error Boundaries Work:
+
+Error boundaries are **class components** that implement either or both of the following methods:
+
+- **`getDerivedStateFromError()`**: This static method is used to update the component’s state based on the error that occurred.
+- **`componentDidCatch()`**: This lifecycle method is used to log the error details and to provide additional context about the error.
+
+## Example of an Error Boundary:
+
+```jsx
+import React, { Component } from 'react';
+
+// This class will catch JavaScript errors in child components
+class ErrorBoundary extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { hasError: false, errorInfo: null };
+  }
+
+  static getDerivedStateFromError(error) {
+    // Update state to show fallback UI
+    return { hasError: true };
+  }
+
+  componentDidCatch(error, info) {
+    // Log the error for debugging purposes
+    console.error("Caught error:", error);
+    console.error("Error Info:", info);
+    this.setState({ errorInfo: info });
+  }
+
+  render() {
+    if (this.state.hasError) {
+      // You can render any custom fallback UI
+      return <h1>Something went wrong!</h1>;
+    }
+    return this.props.children;
+  }
+}
+
+export default ErrorBoundary;
+```
+**** Usage
+
+```bash
+<ErrorBoundary>
+  <MyComponent />
+</ErrorBoundary>
+
+```
+> **Note**: Error boundaries only catch errors during rendering and lifecycle methods. They don’t catch errors inside **event handlers**, **asynchronous code**, or certain methods (like `setState()`).
+
+---
+
+#### **2. Handling Errors in Asynchronous Code (API Calls)**
+
+In React, most asynchronous errors occur when making API calls or performing other async operations (like fetching data). You need to manage these errors gracefully by using `try-catch` blocks within async functions.
+
+### Handling Errors with `fetch()`:
+
+```jsx
+import React, { useState, useEffect } from 'react';
+
+function DataFetchingComponent() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const response = await fetch('https://api.example.com/data');
+        if (!response.ok) {
+          throw new Error('Failed to fetch data');
+        }
+        const result = await response.json();
+        setData(result);
+      } catch (error) {
+        setError(error.message);
+      }
+    }
+
+    fetchData();
+  }, []); // Empty array ensures this runs once when the component mounts
+
+  if (error) {
+    return <div>Error: {error}</div>;
+  }
+
+  return <div>{data ? JSON.stringify(data) : 'Loading...'}</div>;
+}
+
+export default DataFetchingComponent;
+```
+
+#### Handling Errors with `axios`
+
+Using `axios` for API calls is a common practice. Here's how you can handle errors in API calls made with `axios`.
+
+#### Example with `axios`:
+
+```jsx
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
+
+function DataFetchingComponent() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const response = await axios.get('https://api.example.com/data');
+        setData(response.data);
+      } catch (error) {
+        setError(error.response ? error.response.data : 'Error: Something went wrong!');
+      }
+    }
+
+    fetchData();
+  }, []);
+
+  if (error) {
+    return <div>Error: {error}</div>;
+  }
+
+  return <div>{data ? JSON.stringify(data) : 'Loading...'}</div>;
+}
+
+export default DataFetchingComponent;
+```
+
+#### Best Practices:
+
+- **Graceful Error Handling**: Always handle errors explicitly to show the user meaningful error messages.
+- **Display Fallback UI**: For async errors, display a loading spinner or a message indicating that the data is being fetched, and if an error occurs, provide a user-friendly message.
+- **Retry Mechanism**: Implement retry logic where applicable, especially when dealing with transient issues like network failures.
+
+#### **3. Handling Form Validation Errors**
+
+When working with forms in React, it's essential to catch input validation errors before submitting the form to the backend. You can either handle this **client-side** (before submission) or **server-side** (on the backend after submission).
+
+#### Client-Side Form Validation with State:
+
+```jsx
+import React, { useState } from 'react';
+
+function FormWithValidation() {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+
+  const validateForm = () => {
+    if (!email || !password) {
+      setError('Both email and password are required');
+      return false;
+    }
+    // You can add more validation rules like regex here
+    return true;
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if (validateForm()) {
+      setError('');
+      // Proceed with form submission
+      console.log('Form submitted');
+    }
+  };
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <input
+        type="email"
+        value={email}
+        onChange={(e) => setEmail(e.target.value)}
+        placeholder="Email"
+      />
+      <input
+        type="password"
+        value={password}
+        onChange={(e) => setPassword(e.target.value)}
+        placeholder="Password"
+      />
+      <button type="submit">Submit</button>
+      {error && <div style={{ color: 'red' }}>{error}</div>}
+    </form>
+  );
+}
+
+export default FormWithValidation;
+```
+#### Validation Feedback:
+- Display error messages inline, preferably under the input fields, so users know what went wrong.
+
+#### Error Styles:
+- Highlight form fields with errors by adding a red border or other visual cues to make it clear that there's an issue.
+
+#### 4. Async Error Handling in Event Handlers
+
+React’s event handlers (such as `onClick`, `onSubmit`) do not automatically handle errors, so you need to manage async code errors manually.
+
+#### Handling Errors in Event Handlers:
+
+```jsx
+import React, { useState } from 'react';
+
+function AsyncErrorHandlingComponent() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState('');
+
+  const handleClick = async () => {
+    try {
+      const response = await fetch('https://api.example.com/data');
+      if (!response.ok) throw new Error('Failed to fetch data');
+      const result = await response.json();
+      setData(result);
+    } catch (error) {
+      setError('Error: ' + error.message);
+    }
+  };
+
+  return (
+    <div>
+      <button onClick={handleClick}>Fetch Data</button>
+      {error && <div>{error}</div>}
+      {data && <div>{JSON.stringify(data)}</div>}
+    </div>
+  );
+}
+
+export default AsyncErrorHandlingComponent;
+```
+#### Error Handling for Button Click: In the above example, the error is caught and displayed on the UI when the button is clicked. This makes it clear to users if something went wrong during the API call.
+
+#### 5. Handling Network Errors
+
+Network errors can occur if the user is offline, the server is down, or other issues arise. You can handle these errors by inspecting the error object in `catch` blocks.
+
+#### Handling Offline Errors:
+
+```jsx
+import React, { useState } from 'react';
+
+function OfflineErrorHandlingComponent() {
+  const [error, setError] = useState(null);
+
+  const fetchData = async () => {
+    try {
+      const response = await fetch('https://api.example.com/data');
+      if (!response.ok) throw new Error('Failed to fetch data');
+      // handle success
+    } catch (err) {
+      if (err.message === 'Failed to fetch') {
+        setError('Network error: Please check your internet connection');
+      } else {
+        setError('Error: ' + err.message);
+      }
+    }
+  };
+
+  return (
+    <div>
+      <button onClick={fetchData}>Fetch Data</button>
+      {error && <div>{error}</div>}
+    </div>
+  );
+}
+
+export default OfflineErrorHandlingComponent;
+```
+
+#### Network Error Detection: React provides the ability to detect network issues using the catch block and checking if the error message matches common network issues (e.g., Failed to fetch).
+
+#### Retrying Requests: You can add retry logic to allow users to retry the operation if the network error occurs, or show a "Retry" button to trigger the request again.
+
+#### Conclusion
+
+In ReactJS, error handling can be divided into several areas: component rendering errors, asynchronous errors (e.g., API calls), form validation errors, and network errors. By leveraging **error boundaries**, **try-catch blocks**, and **client-side validation**, you can ensure a smoother user experience, provide meaningful error messages, and maintain your application’s robustness even in the face of unexpected failures.
+
+---
+
+#### **Error Handling in Detail for Spring Boot**
+
+Error handling is a critical part of building robust and user-friendly Spring Boot applications. Effective error management allows you to catch issues early, return meaningful messages to the client, and ensure that the application operates smoothly even in the case of unexpected errors.
+
+In Spring Boot, error handling can be broadly categorized into:
+
+- **Handling Application-Level Errors** (e.g., database, application logic)
+- **Validation Errors** (e.g., input validation)
+- **HTTP Errors** (e.g., 404 Not Found, 500 Internal Server Error)
+
+Let's dive into each of these areas in detail.
+
+#### 1. Handling Application-Level Errors
+
+#### Global Exception Handling with `@ControllerAdvice`
+
+In Spring Boot, the `@ControllerAdvice` annotation allows you to define a global exception handler. This is used to catch exceptions across the whole application in a centralized way.
+
+#### Example of a Global Exception Handler using `@ControllerAdvice`:
+
+```java
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@ControllerAdvice
+public class GlobalExceptionHandler {
+
+    // This method will handle all exceptions of type Exception
+    @ExceptionHandler(Exception.class)
+    public ResponseEntity<String> handleAllExceptions(Exception ex) {
+        return new ResponseEntity<>("An error occurred: " + ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
+    }
+
+    // Handle specific exception (e.g., NullPointerException)
+    @ExceptionHandler(NullPointerException.class)
+    public ResponseEntity<String> handleNullPointerExceptions(NullPointerException ex) {
+        return new ResponseEntity<>("Null Pointer Exception: " + ex.getMessage(), HttpStatus.BAD_REQUEST);
+    }
+}
+```
+
+#### **Explanation:**
+
+#### @ExceptionHandler: Defines the method that will handle a specific exception. In the above example, all exceptions of type Exception are handled by handleAllExceptions(), and NullPointerException by handleNullPointerExceptions().
+
+#### @ControllerAdvice: This annotation is used at the class level and globally applies the exception handling logic to all controllers in the application.
+ResponseEntity: It is used to return an HTTP response with a custom message and status code.
+
+#### Custom Error Response Format
+
+It is a best practice to return a structured error response to the client. Instead of just sending an error message as a string, you can create a custom error response object.
+
+#### Example of a Custom Error Response Object:
+
+```java
+public class ErrorResponse {
+    private String message;
+    private String details;
+
+    // Constructors, getters, and setters
+}
+```
+
+#### Now Modify the Global Exception Handler to Return This Structured Error Response:
+
+```java
+@ExceptionHandler(Exception.class)
+public ResponseEntity<ErrorResponse> handleAllExceptions(Exception ex) {
+    ErrorResponse error = new ErrorResponse("An error occurred", ex.getMessage());
+    return new ResponseEntity<>(error, HttpStatus.INTERNAL_SERVER_ERROR);
+}
+```
+
+#### 2. Handling Validation Errors with `@Valid` and `@ExceptionHandler`
+
+Spring Boot makes it easy to validate input fields in REST APIs using the `@Valid` annotation. When validation fails, Spring Boot throws a `MethodArgumentNotValidException`, which can be handled by `@ExceptionHandler`.
+
+#### Example of Handling Validation Errors:
+
+First, define a model with validation annotations:
+
+```java
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+public class UserRequest {
+    @NotBlank(message = "Username cannot be blank")
+    @Size(min = 3, max = 20, message = "Username must be between 3 and 20 characters")
+    private String username;
+
+    @NotBlank(message = "Email cannot be blank")
+    private String email;
+
+    // Constructors, getters, and setters
+}
+```
+Now, in your controller, validate the model using `@Valid`:
+
+```java
+import org.springframework.web.bind.annotation.*;
+import javax.validation.Valid;
+
+@RestController
+@RequestMapping("/users")
+public class UserController {
+
+    @PostMapping("/create")
+    public ResponseEntity<String> createUser(@Valid @RequestBody UserRequest userRequest) {
+        // Business logic here
+        return ResponseEntity.ok("User created successfully");
+    }
+}
+```
+
+#### Handling Validation Errors with `@ControllerAdvice`:
+
+You can create a global handler for `MethodArgumentNotValidException` to return the validation error messages.
+
+```java
+@ControllerAdvice
+public class ValidationExceptionHandler {
+
+    @ExceptionHandler(MethodArgumentNotValidException.class)
+    public ResponseEntity<List<String>> handleValidationExceptions(MethodArgumentNotValidException ex) {
+        List<String> errorMessages = ex.getBindingResult()
+                .getFieldErrors()
+                .stream()
+                .map(error -> error.getField() + ": " + error.getDefaultMessage())
+                .collect(Collectors.toList());
+
+        return new ResponseEntity<>(errorMessages, HttpStatus.BAD_REQUEST);
+    }
+}
+```
+#### Explanation:
+- **`MethodArgumentNotValidException`**: This exception is thrown when validation fails in a controller method. It contains the validation error messages.
+- **`getBindingResult()`**: This method retrieves the binding result, which holds the details of the validation errors.
+- **`getFieldErrors()`**: This retrieves the list of errors related to specific fields. You can extract the error messages from each field and return them in a structured format.
+- **Return Detailed Error Messages**: By using `getFieldErrors()` and mapping each error, you can return a list of detailed error messages to the client, providing clear feedback on what went wrong with each field.
+
+The handler will capture validation errors and return them in a user-friendly way, allowing clients to understand exactly which fields failed and why.
+
+### 3. Handling HTTP Errors (404, 500, etc.)
+
+Spring Boot automatically handles common HTTP errors, such as 404 Not Found or 500 Internal Server Error, but you can customize the handling of these errors by using `@ExceptionHandler` or `@ResponseStatus`.
+
+#### Customizing HTTP Error Responses:
+
+For example, if you want to provide a custom message for 404 errors, you can create a custom exception and annotate it with `@ResponseStatus`.
+
+```java
+@ResponseStatus(HttpStatus.NOT_FOUND)
+public class ResourceNotFoundException extends RuntimeException {
+    public ResourceNotFoundException(String message) {
+        super(message);
+    }
+}
+```
+
+You can then throw this exception in your controller methods:
+
+```java
+@GetMapping("/users/{id}")
+public User getUser(@PathVariable("id") Long id) {
+    User user = userService.findUserById(id);
+    if (user == null) {
+        throw new ResourceNotFoundException("User with ID " + id + " not found");
+    }
+    return user;
+}
+```
+### Customizing 404 Page:
+
+If you want to handle 404 errors globally for unrecognized endpoints, you can do so by creating an exception handler or a `@ControllerAdvice` that returns a custom page or JSON message.
+
+```java
+@ControllerAdvice
+public class NotFoundExceptionHandler {
+
+    @ExceptionHandler(ResourceNotFoundException.class)
+    public ResponseEntity<ErrorResponse> handleResourceNotFound(ResourceNotFoundException ex) {
+        ErrorResponse errorResponse = new ErrorResponse("Resource Not Found", ex.getMessage());
+        return new ResponseEntity<>(errorResponse, HttpStatus.NOT_FOUND);
+    }
+}
+```
+
+#### 4. Handling Authentication & Authorization Errors with Spring Security
+
+Spring Security handles authentication and authorization errors, but you can customize error handling for authentication failures and access denied exceptions.
+
+#### Custom Authentication Failure Handler:
+
+You can create a custom handler to handle authentication failures (invalid credentials):
+
+```java
+import org.springframework.security.core.AuthenticationException;
+import org.springframework.security.web.authentication.AuthenticationFailureHandler;
+import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.http.HttpStatus;
+
+@Component
+public class CustomAuthenticationFailureHandler implements AuthenticationFailureHandler {
+
+    @Override
+    public void onAuthenticationFailure(HttpServletRequest request, HttpServletResponse response,
+                                        AuthenticationException exception) throws IOException, ServletException {
+        response.sendError(HttpStatus.UNAUTHORIZED.value(), "Authentication Failed: " + exception.getMessage());
+    }
+}
+```
+#### Custom Access Denied Handler:
+
+If a user tries to access a resource they are not authorized to, Spring Security will throw an `AccessDeniedException`. You can handle this by creating a custom `AccessDeniedHandler`.
+
+```java
+import org.springframework.security.access.AccessDeniedException;
+import org.springframework.security.web.access.AccessDeniedHandler;
+import org.springframework.stereotype.Component;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@Component
+public class CustomAccessDeniedHandler implements AccessDeniedHandler {
+
+    @Override
+    public void handle(HttpServletRequest request, HttpServletResponse response,
+                       AccessDeniedException accessDeniedException) throws IOException, ServletException {
+        response.sendError(HttpStatus.FORBIDDEN.value(), "Access Denied: " + accessDeniedException.getMessage());
+    }
+}
+```
+
+#### This will return a 403 Forbidden response when the user tries to access a resource they are not authorized to.
+
+### 5. Handling Database Errors
+
+Spring Data JPA and other database-related exceptions can be handled using the same approach as application-level errors. For example, a `DataIntegrityViolationException` can be caught and translated into a user-friendly error message.
+
+### Example of Handling Database Errors:
+
+```java
+@ExceptionHandler(DataIntegrityViolationException.class)
+public ResponseEntity<String> handleDatabaseErrors(DataIntegrityViolationException ex) {
+    return new ResponseEntity<>("Database integrity error: " + ex.getMessage(), HttpStatus.CONFLICT);
+}
+```
+#### This ensures that when a database error occurs (like trying to insert a duplicate value), the application does not crash and the client gets a meaningful response.
+
+#### Conclusion
+
+Effective error handling in Spring Boot is essential to providing a smooth user experience and maintaining the integrity of the application. By leveraging global exception handling with `@ControllerAdvice`, validating user input with `@Valid`, customizing HTTP error responses, handling security-related exceptions, and managing database errors, you can ensure that your Spring Boot application is robust, user-friendly, and easy to debug.
+
+---
+
+#### **Error Handling in Detail for MySQL**
+
+Error handling in MySQL is crucial to ensure data integrity, application stability, and proper error reporting. MySQL provides various error codes and mechanisms to handle issues like constraint violations, deadlocks, connection problems, etc. When working with MySQL, the goal is to handle errors gracefully by:
+
+- Catching and reporting errors effectively.
+- Ensuring data consistency and avoiding corruption.
+- Managing transactions properly to maintain ACID compliance.
+- Optimizing query performance to avoid common pitfalls.
+
+Here's an overview of how to handle errors in MySQL in different areas:
+
+# Error Handling in Detail for MySQL
+
+Error handling in MySQL is crucial to ensure data integrity, application stability, and proper error reporting. MySQL provides various error codes and mechanisms to handle issues like constraint violations, deadlocks, connection problems, etc. When working with MySQL, the goal is to handle errors gracefully by:
+
+- Catching and reporting errors effectively.
+- Ensuring data consistency and avoiding corruption.
+- Managing transactions properly to maintain ACID compliance.
+- Optimizing query performance to avoid common pitfalls.
+
+Here's an overview of how to handle errors in MySQL in different areas:
+
+#### 1. Handling SQL Query Errors
+
+#### Types of Common SQL Errors:
+- **Syntax Errors**: These occur when the SQL query is malformed. For example, missing keywords or incorrect syntax.
+
+    **Example**:
+    ```sql
+    SELECT * FORM users;  -- Incorrect keyword FORM instead of FROM
+    ```
+
+- **Constraint Violations**: Errors related to data integrity, such as violating unique constraints or foreign key constraints.
+
+    **Example**:
+    ```sql
+    INSERT INTO users (id, username) VALUES (1, 'john_doe');  -- Error if the id already exists in the UNIQUE constraint
+    ```
+
+- **Data Type Mismatch**: If the data type of a value being inserted or updated doesn't match the column definition.
+
+    **Example**:
+    ```sql
+    INSERT INTO users (id, username) VALUES ('string_instead_of_int', 'john_doe');  -- Error due to type mismatch
+    ```
+
+- **Division by Zero**: A common runtime error when trying to divide a number by zero.
+
+    **Example**:
+    ```sql
+    SELECT 10 / 0;  -- Error due to division by zero
+    ```
+
+#### Handling Query Errors:
+To handle errors effectively, ensure your queries are written correctly and check the result status after executing a query.
+
+**Example of handling errors in MySQL via SQL scripts:**
+
+```sql
+-- Handling duplicate entry violation (assuming the `id` column is unique)
+INSERT INTO users (id, username) VALUES (1, 'john_doe');
+-- If the id already exists, handle the error
+-- This will not raise an error but ignore the insertion if duplicate
+INSERT IGNORE INTO users (id, username) VALUES (1, 'john_doe');
+```
+
+For more detailed error management, you can use the `SHOW WARNINGS` and `SHOW ERRORS` commands to get detailed information about the most recent error.
+
+#### Example:
+
+```sql
+-- View the last error message
+SHOW ERRORS;
+
+-- View warnings for the last query
+SHOW WARNINGS;
+```
+
+#### 2. Handling Errors in Stored Procedures
+
+In MySQL, you can use `DECLARE ... HANDLER` within stored procedures to catch and handle specific errors or conditions, which is very useful for preventing stored procedures from crashing.
+
+#### Example of Error Handling in Stored Procedures:
+
+```sql
+DELIMITER //
+
+CREATE PROCEDURE addUser(IN userId INT, IN userName VARCHAR(255))
+BEGIN
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        -- Error handling logic (e.g., rollback, logging, etc.)
+        ROLLBACK;
+        SELECT 'An error occurred during the insertion process.' AS ErrorMessage;
+    END;
+
+    -- Start transaction
+    START TRANSACTION;
+
+    -- Insert user data (may cause an error if userId already exists)
+    INSERT INTO users (id, username) VALUES (userId, userName);
+
+    -- Commit the transaction if no errors
+    COMMIT;
+END //
+
+DELIMITER ;
+```
+
+#### Explanation:
+
+- **`DECLARE EXIT HANDLER FOR SQLEXCEPTION`**: This declares a handler to catch any SQL exception that occurs within the stored procedure. When an exception is caught, a custom action is performed—in this case, rolling back the transaction.
+  
+- **`START TRANSACTION` and `COMMIT/ROLLBACK`**: These statements ensure that the changes made during the transaction are either fully committed or fully rolled back. If an error occurs, the `ROLLBACK` ensures that no partial updates are made to the database. If no error occurs, the `COMMIT` ensures that the changes are persisted.
+
+- **Custom Error Handlers**: You can also create specific error handlers for different types of errors, such as:
+  - Deadlocks (`ER_LOCK_DEADLOCK`)
+  - Unique constraint violations (`ER_DUP_ENTRY`)
+  - Foreign key violations, etc.
+  
+This structure ensures that your stored procedures are resilient to errors and maintain data integrity.
+
+#### 3. Handling Database Connection Errors
+
+Connection issues, such as incorrect credentials, network timeouts, or server unavailability, can occur when trying to connect to the MySQL server. These errors can be handled at the application level to ensure the application provides useful feedback to the user.
+
+#### Common Connection Errors:
+- **Error 1045**: Access denied for user (wrong username/password).
+- **Error 2002**: Can't connect to MySQL server (network error).
+- **Error 1049**: Unknown database (database doesn't exist).
+
+#### Handling Connection Errors in Java (via JDBC):
+In Java, you can handle connection errors by catching `SQLException` and inspecting the `SQLState` or `ErrorCode` to provide specific messages based on the error code.
+
+```java
+try {
+    Connection connection = DriverManager.getConnection(
+            "jdbc:mysql://localhost:3306/mydatabase", "username", "password");
+} catch (SQLException ex) {
+    if (ex.getErrorCode() == 1045) {
+        System.out.println("Access denied: Check your username and password.");
+    } else if (ex.getErrorCode() == 1049) {
+        System.out.println("Unknown database: Verify the database name.");
+    } else if (ex.getErrorCode() == 2002) {
+        System.out.println("Unable to connect: MySQL server may be down or unreachable.");
+    } else {
+        System.out.println("Database connection error: " + ex.getMessage());
+    }
+}
+```
+#### Explanation:
+- **SQLExceptions** provide an error code and message, which can be used to determine the cause of the issue. For example:
+  - **Error Code 1045** typically indicates invalid credentials (wrong username or password).
+  - **Error Code 2002** is a network-related issue (e.g., the MySQL server is unreachable).
+  - **Error Code 1049** means the specified database does not exist.
+
+- It is **recommended** to log detailed error information to aid in troubleshooting. By logging both the **error message** and **stack trace**, developers can quickly identify the root cause of connection issues and take corrective action.
+
+#### 4. Transaction Management
+
+When working with transactions, it's essential to manage **commits** and **rollbacks** properly to ensure data consistency. This is particularly crucial when dealing with multi-step operations, where one failure should not result in partial or inconsistent data.
+
+#### Using Transactions in MySQL:
+In MySQL, you use the `BEGIN`, `COMMIT`, and `ROLLBACK` commands to manage the transaction flow and handle any errors that might occur during multi-step operations.
+
+#### Example of MySQL Transactions with Error Handling:
+
+```sql
+START TRANSACTION;
+
+-- Try to insert user details
+INSERT INTO users (id, username) VALUES (1, 'johndoe');
+
+-- Simulate an error (e.g., inserting a duplicate username)
+-- This will cause the transaction to fail and the changes to be rolled back
+INSERT INTO users (id, username) VALUES (1, 'johndoe_duplicate');
+
+-- If no error, commit the transaction to persist changes
+COMMIT;
+
+-- If an error occurs, rollback to ensure data consistency and no partial updates
+ROLLBACK;
+```
+### 5. Handling Deadlocks
+
+Deadlocks occur when two or more transactions are blocked, waiting for each other to release locks, resulting in a situation where no transaction can proceed. In highly concurrent environments, deadlocks are a common issue and need to be handled gracefully to ensure that transactions are retried automatically and the system continues to function smoothly.
+
+#### Handling Deadlocks in MySQL:
+
+You can use the **`DECLARE CONTINUE HANDLER FOR SQLEXCEPTION`** statement within stored procedures to detect a deadlock and retry the transaction. If a deadlock occurs, the transaction is rolled back, and the system waits before retrying the operation.
+
+#### Example of Deadlock Handling in Stored Procedures:
+
+```sql
+-- Retry logic in the application layer if deadlock occurs
+DECLARE CONTINUE HANDLER FOR SQLEXCEPTION
+BEGIN
+    -- Log the error and rollback the transaction
+    ROLLBACK;
+
+    -- Retry logic (e.g., wait for a few seconds and retry the transaction)
+    -- This could involve a loop that retries the transaction up to a certain number of times
+    SELECT 'Deadlock detected, retrying transaction...';
+    -- Add your retry logic here (e.g., wait for a few seconds)
+END;
+```
+
+#### 5. Error Handling with Foreign Key Constraints
+
+Foreign key constraints ensure referential integrity between tables in a relational database. If you try to insert, update, or delete records that would violate these constraints, MySQL will throw a **foreign key violation error**. These errors commonly occur when you attempt to reference a non-existent record in a related table.
+
+#### Common Scenarios for Foreign Key Violations:
+1. **Inserting a record with a non-existent foreign key**: You attempt to insert a record that references a foreign key that doesn't exist in the parent table.
+2. **Deleting a record that is still referenced by another table**: You try to delete a record from the parent table that is being referenced by a foreign key in another table.
+3. **Updating a foreign key to a non-existent value**: You attempt to update a foreign key value to one that doesn't exist in the parent table.
+
+#### Example of Handling Foreign Key Violations:
+
+Suppose you have a **`users`** table that references a **`departments`** table via a foreign key on the `department_id` column in the **`employees`** table.
+
+```sql
+-- Suppose the 'users' table has a foreign key reference to 'departments' table.
+-- Inserting into 'employees' without an existing 'department_id' will cause a foreign key violation if 'department_id' doesn't exist.
+
+INSERT INTO employees (emp_id, department_id) 
+VALUES (101, 999); -- Department ID 999 may not exist in the 'departments' table, leading to a foreign key violation.
+```
+To handle this:
+
+Check the existence of referenced data before insertion.
+Use ON DELETE CASCADE or ON UPDATE CASCADE constraints where appropriate.
+```sql
+CREATE TABLE employees (
+    emp_id INT PRIMARY KEY,
+    department_id INT,
+    FOREIGN KEY (department_id) REFERENCES departments(department_id) ON DELETE CASCADE
+);
+```
+
+#### 6. Optimizing Queries to Avoid Errors
+
+MySQL can sometimes throw errors or degrade in performance if queries are not optimized. Key areas to optimize:
+
+## Common Query Optimization Practices
+
+- **Indexes**: Use appropriate indexes on columns frequently used in `WHERE`, `JOIN`, and `ORDER BY` clauses.
+- **Avoiding N+1 Queries**: Always use `JOIN` instead of multiple separate queries in a loop.
+- **EXPLAIN**: Use the `EXPLAIN` statement to analyze the query execution plan.
+- **Limit Results**: Always use `LIMIT` for pagination, especially with large datasets.
+
+```sql
+EXPLAIN SELECT * FROM users WHERE username = 'johndoe';
+```
+#### Handling Query Performance Errors
+
+If a query takes too long, you may encounter a timeout error (e.g., **Error 1205: Lock wait timeout**). To address this:
+
+- **Optimize the query for performance**.
+- **Increase the timeout value** if necessary.
+
+#### 7. Monitoring and Error Logging
+
+MySQL provides built-in logs for tracking errors, queries, and performance.
+
+#### Useful Logs:
+
+- **Error Log**: Records server startup, shutdown, and critical errors.  
+  **Location**: `/var/log/mysql/error.log`
+
+- **General Query Log**: Logs all SQL queries executed on the server.  
+  **Enable with**: 
+  ```sql
+  SET global general_log = 1;
+```
+- **Slow Query Log**: Logs queries that take longer than a specified time to execute.  
+  **Enable with**: 
+  ```sql
+  SET global slow_query_log = 1;
+```
+
+#### Conclusion
+
+Effective error handling in MySQL ensures the integrity and stability of your database and application. By properly managing:
+
+- Query errors
+- Stored procedures
+- Database connections
+- Transactions
+- Foreign key constraints
+
+You can prevent data corruption, ensure consistent application behavior, and troubleshoot effectively. Moreover, always optimize your queries and use logging tools to monitor the health of your MySQL database.
+
+### Understanding Endpoints
+
+#### **Understanding Endpoints in Web Development**
+
+In web development, endpoints refer to specific routes or URLs that define where and how requests should be made to interact with a web application or API. These are integral to the client-server architecture, where the server listens for requests on defined endpoints and processes them accordingly, returning responses to the client.
+
+Here's a detailed breakdown of what endpoints are, how they function, and how to design and use them effectively:
+
+#### **What Are Endpoints?**
+
+Endpoints are essentially URL patterns that represent a specific resource or functionality in a web application. They define the routes that clients (e.g., browsers, mobile apps) can use to request data from or send data to the server.
+
+In RESTful APIs (Representational State Transfer), endpoints are typically mapped to CRUD (Create, Read, Update, Delete) operations on resources. These endpoints are accessed through HTTP methods like GET, POST, PUT, DELETE, etc.
+
+For example:
+
+- `/api/users` — Endpoint for accessing user data.
+- `/api/users/{id}` — Endpoint for accessing a specific user’s data by their id.
+
+#### **How Do Endpoints Work?**
+
+#### **Basic Flow:**
+1. **Client Sends a Request**: The client sends an HTTP request to a particular endpoint.
+2. **Server Processes the Request**: The server receives the request, processes it, and performs the appropriate actions (such as querying the database or invoking business logic).
+3. **Server Sends a Response**: The server sends a response back to the client, which could include data, a status message, or an error message.
+
+#### **Request Types (HTTP Methods):**
+
+Each endpoint typically supports certain HTTP methods to perform different actions on the resources:
+
+- **GET**: Retrieves data from the server.  
+  Example: `GET /api/users` - Retrieves a list of users.
+  
+- **POST**: Sends data to the server to create a new resource.  
+  Example: `POST /api/users` - Creates a new user.
+
+- **PUT**: Updates an existing resource on the server.  
+  Example: `PUT /api/users/{id}` - Updates user data with a specified id.
+
+- **DELETE**: Removes a resource from the server.  
+  Example: `DELETE /api/users/{id}` - Deletes a user with a specific id.
+
+- **PATCH**: Partially updates a resource on the server.  
+  Example: `PATCH /api/users/{id}` - Updates part of the user’s data (e.g., change email address).
+
+#### **Types of Endpoints**
+
+#### 1. Public API Endpoints
+Public endpoints are accessible by anyone without requiring authentication. These might be used to provide general information about your application or data that doesn't require security.
+
+Example:
+- `GET /api/products` — Get a list of all products.
+- `GET /api/posts/{id}` — Get details of a specific blog post.
+
+#### 2. Private / Protected API Endpoints
+Private endpoints require authentication and authorization to access. They are protected by mechanisms like OAuth, JWT, or API Keys.
+
+Example:
+- `GET /api/user/profile` — Get the profile of the logged-in user.
+- `POST /api/user/update` — Update the profile information of the logged-in user.
+
+These are typically used in applications where the user's data must be protected.
+
+#### 3. Admin Endpoints
+Admin endpoints are typically reserved for administrative users who can manage data, users, or application settings. These endpoints often require higher-level privileges.
+
+Example:
+- `POST /admin/create-user` — Allows admin to create a new user.
+- `DELETE /admin/delete-user/{id}` — Allows admin to delete a user by their id.
+
+#### Endpoint Structure in RESTful APIs
+
+In a RESTful API, endpoints are structured around resources (entities that the API works with) and the actions that can be performed on those resources.
+
+#### Resource-Based Endpoints:
+The URL path should represent the resource that the API is concerned with. It’s often plural to indicate that it handles multiple instances of that resource.
+
+Example:
+- `GET /api/users` — Retrieves all users.
+- `POST /api/users` — Creates a new user.
+- `GET /api/users/{id}` — Retrieves a specific user by id.
+- `PUT /api/users/{id}` — Updates a user by id.
+- `DELETE /api/users/{id}` — Deletes a user by id.
+
+#### Actions vs. Resources:
+- **Resources** are nouns (users, products, posts), representing the entity.
+- **Actions** are verbs (create, update, delete, fetch), representing the operation performed on the resource.
+
+#### Designing Good API Endpoints
+
+A well-designed API endpoint structure ensures that the API is clean, intuitive, and easy to maintain. Here are some best practices for designing good API endpoints:
+
+#### 1. Use HTTP Methods Appropriately
+- **GET**: Use for retrieving data, should not have side effects (i.e., should not modify data).
+- **POST**: Use for creating new resources.
+- **PUT/PATCH**: Use for updating an existing resource.
+- **DELETE**: Use for deleting resources.
+
+#### 2. Use Meaningful and Consistent Naming
+- Resource names should be plural to indicate collections (e.g., `/users`, `/products`).
+- Use camelCase or snake_case consistently across endpoints (e.g., `/api/userProfile` or `/api/user_profile`).
+
+#### 3. Include Parameters When Needed
+Sometimes, endpoints may require parameters to filter, sort, or paginate data.
+
+- **Path Parameters**: These are used to identify a specific resource or item (e.g., `GET /api/users/{id}`).
+- **Query Parameters**: These are used for filtering, pagination, or sorting (e.g., `GET /api/users?sort=asc&limit=10`).
+
+#### Example:
+```bash
+GET /api/products?page=2&size=10
+```
+#### This endpoint retrieves the second page of products, with each page containing 10 products.
+
+#### 4. Provide Descriptive Status Codes
+Status codes should accurately reflect the result of the request:
+
+- **200 OK**: The request was successful.
+- **201 Created**: A new resource was created.
+- **400 Bad Request**: The request was invalid or missing parameters.
+- **401 Unauthorized**: The request requires authentication.
+- **403 Forbidden**: The request is understood but the server refuses to authorize it.
+- **404 Not Found**: The requested resource could not be found.
+- **500 Internal Server Error**: The server encountered an unexpected condition.
+
+#### 5. Use Versioning for APIs
+To ensure backward compatibility, it's important to version your APIs. This allows you to make changes to the API without breaking existing clients.
+
+#### Example of Versioning in URLs:
+- `/api/v1/users`
+- `/api/v2/users`
+
+#### 6. Avoid Deep Nesting
+Deep nesting of resources (e.g., `/api/users/{id}/posts/{id}/comments/{id}`) can lead to complex and hard-to-read URLs. Instead, use pagination and filtering mechanisms for better scalability.
+
+---
