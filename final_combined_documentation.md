@@ -22,7 +22,7 @@
       <td><b>Purpose</b></td>
         <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
         <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
-	<td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
+  <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
         <td><a href = "#comprehensive-solutions">Comprehensive Solutions</a></td>
     </tr>
     <tr>
@@ -1323,13 +1323,13 @@ ATS_Backend
 
 ```
 <dependency>
-	<groupId>org.springframework.boot</groupId>
-	<artifactId>spring-boot-starter-data-jpa</artifactId>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
 <p> <dependency> with the group ID org.springframework.boot and artifact ID spring-boot-starter-data-jpa is a Spring Boot starter that  simplifies the integration of Spring Data JPA into your application. It provides all the necessary libraries and tools required for working  with relational databases using JPA (Java Persistence API) and Hibernate.</p>
 <h4>Key Features:</h4>
-	
+  
 - **JPA Integration**: Enables the use of JPA for object-relational mapping (ORM) to map Java objects to database tables.
 
 - **Hibernate Support**: Includes Hibernate as the default JPA implementation, providing advanced ORM capabilities.
@@ -1365,10 +1365,10 @@ ATS_Backend
 
 ```
 <dependency>
-	<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-devtools</artifactId>
-		<scope>runtime</scope>
-	<optional>true</optional>
+  <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+    <scope>runtime</scope>
+  <optional>true</optional>
 </dependency>
 ```
 <p>This dependency is used to improve the development workflow by providing features such as automatic restarts, live reload, and remote debugging for Spring Boot applications. It’s meant for use during the development phase only.</p>
@@ -2589,6 +2589,8 @@ This configuration file is typically found in the `application.properties` file 
 
 This workflow ensures that user actions are processed efficiently, data is managed securely, and the application is available to users.
 
+### Full-Stack Development flowchart:
+
 ![WhatsApp Image 2025-01-24 at 12 23 48 PM](https://github.com/user-attachments/assets/cbd3f4da-afb5-439d-8b45-8c3f285fb2f9)
 
 ---
@@ -2928,9 +2930,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(Application.class, args);
+  }
 
 }
 ```
@@ -3823,8 +3825,6 @@ This endpoint is designed to update an employee’s details by their employee ID
 
 ---
 
----
-
 #### **Summary of Endpoints**
 
 #### **1. GET /api/employee/{empId}** - Get an Employee by ID
@@ -3900,12 +3900,6 @@ This endpoint is designed to update an employee’s details by their employee ID
 
 7. **Void Return for Delete**:
    - The `DELETE` method returns `void` because the action is completed without returning any data, indicating a successful deletion.
-
----
-
-### Full-Stack Development flowchart:
-
-![Full Stack development](https://github.com/user-attachments/assets/451a6d7c-9d12-441e-b83f-a2bd8f189ddc)
 
 ---
 
